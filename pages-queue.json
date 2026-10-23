@@ -1,0 +1,355 @@
+{
+  "_about": "Nightly publishing queue. Take the first item with status 'queued', research it per PUBLISHING.md, then set status to 'published' and add published_url. agency is the expected official source to start from; it is NOT verified until you fetch it.",
+  "queue": [
+    {
+      "n": 1,
+      "city": "San Diego",
+      "state": "CA",
+      "item": "Bulk Item Pickup",
+      "slug": "bulk-item-pickup",
+      "working_title": "How to Schedule Bulk Item Pickup in San Diego (2026)",
+      "primary_keyword": "san diego bulk item pickup",
+      "start_with_agency": "City of San Diego Environmental Services Department",
+      "status": "queued"
+    },
+    {
+      "n": 2,
+      "city": "Chicago",
+      "state": "IL",
+      "item": "Bulk Item Pickup (311)",
+      "slug": "bulk-pickup",
+      "working_title": "How to Get Bulk Items Picked Up in Chicago Through 311 (2026)",
+      "primary_keyword": "chicago 311 bulk pickup",
+      "start_with_agency": "City of Chicago Department of Streets and Sanitation / CHI 311",
+      "status": "queued"
+    },
+    {
+      "n": 3,
+      "city": "New York City",
+      "state": "NY",
+      "item": "Mattress",
+      "slug": "mattress",
+      "working_title": "How to Get Rid of a Mattress in NYC: DSNY Rules (2026)",
+      "primary_keyword": "nyc dsny mattress disposal rules",
+      "start_with_agency": "NYC Department of Sanitation (DSNY)",
+      "status": "queued"
+    },
+    {
+      "n": 4,
+      "city": "Austin",
+      "state": "TX",
+      "item": "Bulk Item Collection",
+      "slug": "bulk-collection",
+      "working_title": "Austin Bulk Item Collection: Schedule and Rules (2026)",
+      "primary_keyword": "austin bulk pickup schedule",
+      "start_with_agency": "Austin Resource Recovery",
+      "status": "queued"
+    },
+    {
+      "n": 5,
+      "city": "Nashville",
+      "state": "TN",
+      "item": "Bulk Trash Pickup",
+      "slug": "bulk-pickup",
+      "working_title": "How to Request Bulk Trash Pickup in Nashville (2026)",
+      "primary_keyword": "nashville bulk trash pickup",
+      "start_with_agency": "Metro Nashville Public Works / hubNashville",
+      "status": "queued"
+    },
+    {
+      "n": 6,
+      "city": "Seattle",
+      "state": "WA",
+      "item": "Bulky Item Pickup Cost",
+      "slug": "bulky-item-pickup",
+      "working_title": "Seattle Bulky Item Pickup: Cost and How to Schedule (2026)",
+      "primary_keyword": "seattle bulk pickup cost",
+      "start_with_agency": "Seattle Public Utilities",
+      "status": "queued"
+    },
+    {
+      "n": 7,
+      "city": "Phoenix",
+      "state": "AZ",
+      "item": "Bulk Trash",
+      "slug": "bulk-trash",
+      "working_title": "Phoenix Bulk Trash Schedule and Rules (2026)",
+      "primary_keyword": "phoenix bulk trash schedule",
+      "start_with_agency": "City of Phoenix Public Works",
+      "status": "queued"
+    },
+    {
+      "n": 8,
+      "city": "Washington",
+      "state": "DC",
+      "item": "Bulk Trash",
+      "slug": "bulk-trash",
+      "working_title": "How to Schedule Bulk Trash Collection in Washington, DC (2026)",
+      "primary_keyword": "dc bulk trash pickup",
+      "start_with_agency": "DC Department of Public Works / DC 311",
+      "status": "queued"
+    },
+    {
+      "n": 9,
+      "city": "Waste Management",
+      "state": "US",
+      "item": "Bulk Pickup",
+      "slug": "bulk-pickup",
+      "working_title": "How to Schedule a Waste Management Bulk Pickup (2026)",
+      "primary_keyword": "waste management bulk pickup",
+      "start_with_agency": "Waste Management (wm.com) customer pages; note this is a hauler, not a city",
+      "status": "queued"
+    },
+    {
+      "n": 10,
+      "city": "Boston",
+      "state": "MA",
+      "item": "Couch and Furniture",
+      "slug": "couch",
+      "working_title": "How to Get Rid of a Couch in Boston (2026)",
+      "primary_keyword": "how to get rid of a couch boston",
+      "start_with_agency": "City of Boston Public Works",
+      "status": "queued"
+    },
+    {
+      "n": 11,
+      "city": "Boston",
+      "state": "MA",
+      "item": "Refrigerator and Appliances",
+      "slug": "refrigerator",
+      "working_title": "How to Get Rid of a Refrigerator in Boston (2026)",
+      "primary_keyword": "boston refrigerator disposal",
+      "start_with_agency": "City of Boston Public Works / Boston 311",
+      "status": "queued"
+    },
+    {
+      "n": 12,
+      "city": "Cambridge",
+      "state": "MA",
+      "item": "Mattress",
+      "slug": "mattress",
+      "working_title": "How to Get Rid of a Mattress in Cambridge, MA (2026)",
+      "primary_keyword": "cambridge mattress pickup",
+      "start_with_agency": "City of Cambridge Department of Public Works",
+      "status": "queued"
+    },
+    {
+      "n": 13,
+      "city": "Somerville",
+      "state": "MA",
+      "item": "Mattress",
+      "slug": "mattress",
+      "working_title": "How to Get Rid of a Mattress in Somerville, MA (2026)",
+      "primary_keyword": "somerville mattress pickup",
+      "start_with_agency": "City of Somerville Department of Public Works",
+      "status": "queued"
+    },
+    {
+      "n": 14,
+      "city": "Los Angeles",
+      "state": "CA",
+      "item": "Bulky Item Pickup",
+      "slug": "bulky-item-pickup",
+      "working_title": "How to Schedule a Free Bulky Item Pickup in Los Angeles (2026)",
+      "primary_keyword": "la bulky item pickup",
+      "start_with_agency": "LA Sanitation (LASAN) / MyLA311",
+      "status": "queued"
+    },
+    {
+      "n": 15,
+      "city": "Houston",
+      "state": "TX",
+      "item": "Heavy Trash",
+      "slug": "heavy-trash",
+      "working_title": "Houston Heavy Trash Pickup Schedule and Rules (2026)",
+      "primary_keyword": "houston heavy trash schedule",
+      "start_with_agency": "City of Houston Solid Waste Management Department",
+      "status": "queued"
+    },
+    {
+      "n": 16,
+      "city": "Philadelphia",
+      "state": "PA",
+      "item": "Bulk Items",
+      "slug": "bulk-items",
+      "working_title": "How to Get Rid of Bulk Items in Philadelphia (2026)",
+      "primary_keyword": "philadelphia bulk trash",
+      "start_with_agency": "City of Philadelphia Streets Department",
+      "status": "queued"
+    },
+    {
+      "n": 17,
+      "city": "San Antonio",
+      "state": "TX",
+      "item": "Bulky Waste Collection",
+      "slug": "bulky-waste",
+      "working_title": "San Antonio Bulky Waste Collection Schedule (2026)",
+      "primary_keyword": "san antonio bulk pickup",
+      "start_with_agency": "City of San Antonio Solid Waste Management Department",
+      "status": "queued"
+    },
+    {
+      "n": 18,
+      "city": "Dallas",
+      "state": "TX",
+      "item": "Bulk Trash",
+      "slug": "bulk-trash",
+      "working_title": "Dallas Bulk and Brush Collection Schedule (2026)",
+      "primary_keyword": "dallas bulk trash schedule",
+      "start_with_agency": "City of Dallas Sanitation Services",
+      "status": "queued"
+    },
+    {
+      "n": 19,
+      "city": "Denver",
+      "state": "CO",
+      "item": "Large Item Pickup",
+      "slug": "large-item-pickup",
+      "working_title": "How to Schedule Large Item Pickup in Denver (2026)",
+      "primary_keyword": "denver large item pickup",
+      "start_with_agency": "Denver Solid Waste Management (DOTI)",
+      "status": "queued"
+    },
+    {
+      "n": 20,
+      "city": "Portland",
+      "state": "OR",
+      "item": "Bulky Waste",
+      "slug": "bulky-waste",
+      "working_title": "How to Get Rid of Bulky Waste in Portland, OR (2026)",
+      "primary_keyword": "portland bulky waste pickup",
+      "start_with_agency": "City of Portland Bureau of Planning and Sustainability / Metro",
+      "status": "queued"
+    },
+    {
+      "n": 21,
+      "city": "San Francisco",
+      "state": "CA",
+      "item": "Bulky Item Recycling",
+      "slug": "bulky-item-pickup",
+      "working_title": "How to Get Free Bulky Item Pickup in San Francisco (2026)",
+      "primary_keyword": "san francisco bulky item pickup",
+      "start_with_agency": "Recology San Francisco / SF Environment",
+      "status": "queued"
+    },
+    {
+      "n": 22,
+      "city": "San Jose",
+      "state": "CA",
+      "item": "Junk Pickup",
+      "slug": "junk-pickup",
+      "working_title": "San Jose Large Item Collection: How It Works (2026)",
+      "primary_keyword": "san jose junk pickup",
+      "start_with_agency": "City of San Jose Environmental Services Department",
+      "status": "queued"
+    },
+    {
+      "n": 23,
+      "city": "Atlanta",
+      "state": "GA",
+      "item": "Bulk Trash",
+      "slug": "bulk-trash",
+      "working_title": "How to Schedule Bulk Trash Pickup in Atlanta (2026)",
+      "primary_keyword": "atlanta bulk trash pickup",
+      "start_with_agency": "City of Atlanta Department of Public Works / ATL311",
+      "status": "queued"
+    },
+    {
+      "n": 24,
+      "city": "Charlotte",
+      "state": "NC",
+      "item": "Bulky Items",
+      "slug": "bulky-items",
+      "working_title": "Charlotte Bulky Item Collection: How to Schedule (2026)",
+      "primary_keyword": "charlotte bulky item pickup",
+      "start_with_agency": "City of Charlotte Solid Waste Services / CLT+",
+      "status": "queued"
+    },
+    {
+      "n": 25,
+      "city": "Columbus",
+      "state": "OH",
+      "item": "Bulk Collection",
+      "slug": "bulk-collection",
+      "working_title": "Columbus Bulk Collection Rules and Schedule (2026)",
+      "primary_keyword": "columbus bulk pickup",
+      "start_with_agency": "City of Columbus Division of Refuse Collection / 311",
+      "status": "queued"
+    },
+    {
+      "n": 26,
+      "city": "Minneapolis",
+      "state": "MN",
+      "item": "Large Item Disposal",
+      "slug": "large-items",
+      "working_title": "How to Get Rid of Large Items in Minneapolis (2026)",
+      "primary_keyword": "minneapolis large item pickup",
+      "start_with_agency": "City of Minneapolis Solid Waste & Recycling",
+      "status": "queued"
+    },
+    {
+      "n": 27,
+      "city": "Baltimore",
+      "state": "MD",
+      "item": "Bulk Trash",
+      "slug": "bulk-trash",
+      "working_title": "How to Schedule Bulk Trash Pickup in Baltimore (2026)",
+      "primary_keyword": "baltimore bulk trash pickup",
+      "start_with_agency": "Baltimore City Department of Public Works / Baltimore 311",
+      "status": "queued"
+    },
+    {
+      "n": 28,
+      "city": "Las Vegas",
+      "state": "NV",
+      "item": "Bulky Item Pickup",
+      "slug": "bulky-item-pickup",
+      "working_title": "Las Vegas Bulky Item Pickup: Options and Cost (2026)",
+      "primary_keyword": "las vegas bulk pickup",
+      "start_with_agency": "Republic Services of Southern Nevada / City of Las Vegas",
+      "status": "queued"
+    },
+    {
+      "n": 29,
+      "city": "Cincinnati",
+      "state": "OH",
+      "item": "Bulk Item Pickup",
+      "slug": "bulk-item-pickup",
+      "working_title": "How to Get Rid of Furniture and Bulk Items in Cincinnati (2026)",
+      "primary_keyword": "cincinnati bulk item pickup",
+      "start_with_agency": "City of Cincinnati Public Services",
+      "status": "queued"
+    },
+    {
+      "n": 30,
+      "city": "New York City",
+      "state": "NY",
+      "item": "Couch and Furniture",
+      "slug": "couch",
+      "working_title": "How to Get Rid of a Couch in NYC (2026)",
+      "primary_keyword": "nyc couch disposal",
+      "start_with_agency": "NYC Department of Sanitation (DSNY)",
+      "status": "queued"
+    },
+    {
+      "n": 31,
+      "city": "Chicago",
+      "state": "IL",
+      "item": "Mattress",
+      "slug": "mattress",
+      "working_title": "How to Get Rid of a Mattress in Chicago (2026)",
+      "primary_keyword": "chicago mattress disposal",
+      "start_with_agency": "City of Chicago Department of Streets and Sanitation",
+      "status": "queued"
+    }
+  ],
+  "published": [
+    {
+      "city": "Boston",
+      "state": "MA",
+      "item": "Mattress",
+      "url_path": "/boston/mattress/",
+      "published": "2026-10-22"
+    }
+  ]
+}

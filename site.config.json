@@ -1,0 +1,29 @@
+{
+  "site_name": "Curbside Rules",
+  "tagline": "Plain-English bulk trash and junk disposal rules, city by city.",
+  "base_url": "https://funnyfarm4.github.io/curbside-rules",
+  "base_path": "/curbside-rules/",
+  "language": "en-US",
+  "contact_email": "",
+  "output_dir": "docs",
+  "affiliates": {
+    "loadup": {
+      "name": "LoadUp",
+      "url": "https://goloadup.com/",
+      "tracking_url": "",
+      "blurb": "Online junk and furniture removal booking. Check coverage for your ZIP."
+    },
+    "jeteli": {
+      "name": "JeteLi",
+      "url": "https://jeteli.com/",
+      "tracking_url": "",
+      "blurb": "Junk removal quotes. Check coverage for your ZIP."
+    }
+  },
+  "_notes": {
+    "base_url": "Full public root URL, no trailing slash (include the sub-path for GitHub Pages project sites). Used for canonical tags, sitemap.xml, robots.txt and JSON-LD.",
+    "tracking_url": "After joining an affiliate program, paste your full tracking link here. Every element with data-affiliate=\"<key>\" gets this href on the next build. Leave empty to use the plain url.",
+    "contact_email": "Optional. If set, it appears on the About page for corrections.",
+    "base_path": "URL path the site is served under. '/curbside-rules/' for https://funnyfarm4.github.io/curbside-rules/; set to '/' for a custom domain (and change base_url to match). Every root-relative href/src is prefixed with it at build time."
+  }
+}
