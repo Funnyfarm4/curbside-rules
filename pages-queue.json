@@ -10,7 +10,9 @@
       "working_title": "How to Schedule Bulk Item Pickup in San Diego (2026)",
       "primary_keyword": "san diego bulk item pickup",
       "start_with_agency": "City of San Diego Environmental Services Department",
-      "status": "queued"
+      "status": "published",
+      "published_url": "/san-diego/bulk-item-pickup/",
+      "note": "City bulky pickup paused until further notice (FY2028-29 fee reduction); page covers drop-off alternatives."
     },
     {
       "n": 2,
@@ -341,6 +343,17 @@
       "primary_keyword": "chicago mattress disposal",
       "start_with_agency": "City of Chicago Department of Streets and Sanitation",
       "status": "queued"
+    },
+    {
+      "n": 32,
+      "city": "San Diego",
+      "state": "CA",
+      "item": "Couch and Furniture",
+      "slug": "couch",
+      "working_title": "How to Get Rid of a Couch in San Diego (2026)",
+      "primary_keyword": "how to get rid of a couch san diego",
+      "start_with_agency": "City of San Diego Environmental Services Department (no City bulky pickup as of Oct 2026)",
+      "status": "queued"
     }
   ],
   "published": [
@@ -350,6 +363,13 @@
       "item": "Mattress",
       "url_path": "/boston/mattress/",
       "published": "2026-10-22"
+    },
+    {
+      "city": "San Diego",
+      "state": "CA",
+      "item": "Bulk Item Pickup",
+      "url_path": "/san-diego/bulk-item-pickup/",
+      "published": "2026-10-23"
     }
   ]
 }
