@@ -38,6 +38,7 @@ cp content/_templates/guide-template.md content/pages/<city-slug>/<item-slug>.md
 - Every source gets an `id`. Cite it inline as `[[id]]`. The build renders a linked citation and a numbered Sources list with "Last checked <date>". The build **fails** if a source is never cited or a `[[id]]` doesn't exist.
 - Body Markdown supports: `##`/`###` headings, paragraphs, `-` and `1.` lists, `**bold**`, `*italic*`, `[text](url)`, `> note` callouts, and `{{pickup-box}}`.
 - Optional `partners`: list of affiliate keys from `site.config.json` that actually serve the city (check each partner's public service-area page). Without it, every partner is shown. Example: Indianapolis pages use `["loadup"]` because JeteLi only serves South Florida (Palm Beach, Martin, Broward) as of Oct 24, 2026.
+- Optional `category`: `"housing"` lists the page under a "Moving & housing" heading on the city hub (and labels it on the homepage) instead of with the trash guides. Example: `/indianapolis/cheap-rentals/`. Housing pages can also set `pickup_heading`, `pickup_intro` and `sources_note` to reword the partner box and the Sources blurb.
 - Put `{{pickup-box}}` right after the "doesn't qualify" section. Any page with the box automatically gets the FTC disclosure at the top.
 - Link internally to existing guides (same city or same item) where it helps. A "Related guides" block is added automatically.
 

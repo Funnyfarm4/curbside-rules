@@ -480,6 +480,14 @@
       "item": "Appliances and Tires",
       "url_path": "/indianapolis/appliance-tire-disposal/",
       "published": "2026-10-24"
+    },
+    {
+      "city": "Indianapolis",
+      "state": "IN",
+      "item": "Cheap Rentals",
+      "url_path": "/indianapolis/cheap-rentals/",
+      "published": "2026-10-24",
+      "category": "housing"
     }
   ]
 }

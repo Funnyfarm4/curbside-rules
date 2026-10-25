@@ -28,6 +28,10 @@ def with_base(html_text):
         return html_text
     return re.sub(r'((?:href|src)=")/(?!/)', lambda m: m.group(1) + BASE_PATH, html_text)
 TEMPLATE = (ROOT / "templates" / "base.html").read_text()
+SOURCES_NOTE = ("Every rule, fee, schedule and phone number on this page comes from these official pages. "
+                "Rules change, so confirm with the city before you put anything on the curb.")
+# Optional front-matter "category": "housing" lists a page under "Moving & housing" instead of the trash guides.
+CATEGORY_LABELS = {"housing": "Moving & housing"}
 ERRORS = []
 
 
@@ -183,10 +187,11 @@ def pickup_box(page):
                 f'<span>{esc(a["blurb"])}</span></li>')
         return (
             '<aside class="pickup-box" aria-labelledby="pickup-h">'
-            '<h2 id="pickup-h">Too much to haul? Book a pickup</h2>'
-            f'<p>If you can\'t use the city option, or you have more than a {esc(page["item"].lower())} to clear out, '
-            'a paid junk-removal service may be easier. Confirm they serve your area and check the price before you book.</p>'
-            f'<ul>{"".join(items)}</ul>'
+            f'<h2 id="pickup-h">{esc(page.get("pickup_heading", "Too much to haul? Book a pickup"))}</h2>'
+            + (f'<p>{esc(page["pickup_intro"])}</p>' if page.get("pickup_intro") else
+               f'<p>If you can\'t use the city option, or you have more than a {esc(page["item"].lower())} to clear out, '
+               'a paid junk-removal service may be easier. Confirm they serve your area and check the price before you book.</p>')
+            + f'<ul>{"".join(items)}</ul>'
             '<p class="small">Paid links. We may earn a commission if you book, at no extra cost to you. '
             '<a href="/disclosure/">Disclosure</a></p>'
             '</aside>')
@@ -269,8 +274,7 @@ def render_page(p, all_pages):
         f'&mdash; {esc(s["publisher"])}. <span class="checked">Last checked {esc(s["_checked"])}.</span></li>'
         for s in sources.values())
     sources_html = (f'<section class="sources"><h2 id="sources">Sources</h2>'
-                    f'<p class="small">Every rule, fee, schedule and phone number on this page comes from these official pages. '
-                    f'Rules change, so confirm with the city before you put anything on the curb.</p><ol>{src_lis}</ol></section>')
+                    f'<p class="small">{esc(p.get("sources_note", SOURCES_NOTE))}</p><ol>{src_lis}</ol></section>')
 
     related = [o for o in all_pages if o is not p and (o["city"] == p["city"] or o["item"] == p["item"])]
     rel_html = ""
@@ -358,11 +362,18 @@ def main():
     for p in pages:
         cities.setdefault((p["city"], p["state"], p["city_slug"]), []).append(p)
     for (city, state, cslug), plist in sorted(cities.items()):
-        lis = "".join(f'<li><a href="{q["url_path"]}">{esc(q["title"])}</a> <span class="small">Checked {fmt_date(q["last_checked"])}</span></li>' for q in plist)
+        def hub_lis(qs):
+            return "".join(f'<li><a href="{q["url_path"]}">{esc(q["title"])}</a> <span class="small">Checked {fmt_date(q["last_checked"])}</span></li>' for q in qs)
+        trash = [q for q in plist if not q.get("category")]
+        extra = ""
+        for cat, label in CATEGORY_LABELS.items():
+            qs = [q for q in plist if q.get("category") == cat]
+            if qs:
+                extra += f'<h2 id="{slugify(label)}">{esc(label)}</h2><ul class="guide-list">{hub_lis(qs)}</ul>'
         body = (f'<nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a> &rsaquo; <span>{esc(city)}, {esc(state)}</span></nav>'
                 f'<article><header class="page-head"><h1>Bulk trash and junk disposal in {esc(city)}, {esc(state)}</h1>'
                 f'<p class="lede">Item-by-item guides to getting rid of large items in {esc(city)}, built from official city sources.</p></header>'
-                f'<ul class="guide-list">{lis}</ul></article>')
+                f'<ul class="guide-list">{hub_lis(trash)}</ul>{extra}</article>')
         write(f"/{cslug}/", page_html(
             title=f"{city}, {state} Bulk Trash & Junk Disposal Guides | {CONFIG['site_name']}",
             description=f"How to get rid of mattresses, furniture, appliances and other bulky items in {city}, {state}, using official city rules.",
@@ -371,7 +382,9 @@ def main():
     # homepage
     groups = ""
     for (city, state, cslug), plist in sorted(cities.items()):
-        lis = "".join(f'<li><a href="{q["url_path"]}">{esc(q["item"])}</a></li>' for q in plist)
+        lis = "".join(f'<li><a href="{q["url_path"]}">{esc(q["item"])}</a>'
+                      + (f' <span class="small">({esc(CATEGORY_LABELS[q["category"]])})</span>' if q.get("category") in CATEGORY_LABELS else "")
+                      + '</li>' for q in plist)
         groups += f'<section class="city"><h3><a href="/{cslug}/">{esc(city)}, {esc(state)}</a></h3><ul>{lis}</ul></section>'
     latest = sorted(pages, key=lambda q: q["published"], reverse=True)[:10]
     latest_html = "".join(f'<li><a href="{q["url_path"]}">{esc(q["title"])}</a></li>' for q in latest)
