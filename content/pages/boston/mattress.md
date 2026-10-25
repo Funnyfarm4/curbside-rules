@@ -6,6 +6,7 @@
   "city": "Boston",
   "state": "MA",
   "item": "Mattress",
+  "partners": ["loadup"],
   "slug": "mattress",
   "published": "2026-10-22",
   "updated": "2026-10-22",

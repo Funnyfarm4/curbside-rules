@@ -6,6 +6,7 @@
   "city": "San Diego",
   "state": "CA",
   "item": "Bulk Item Pickup",
+  "partners": ["loadup"],
   "slug": "bulk-item-pickup",
   "published": "2026-10-23",
   "updated": "2026-10-23",
