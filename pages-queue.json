@@ -1,5 +1,5 @@
 {
-  "_about": "Nightly publishing queue. Take the first item with status 'queued', research it per PUBLISHING.md, then set status to 'published' and add published_url. agency is the expected official source to start from; it is NOT verified until you fetch it.",
+  "_about": "Nightly publishing queue. Take the first item with status 'queued', research it per PUBLISHING.md, then set status to 'published' and add published_url. agency is the expected official source to start from; it is NOT verified until you fetch it. Entries with priority 'high' are placed first and go before other queued entries.",
   "queue": [
     {
       "n": 1,
@@ -13,6 +13,102 @@
       "status": "published",
       "published_url": "/san-diego/bulk-item-pickup/",
       "note": "City bulky pickup paused until further notice (FY2028-29 fee reduction); page covers drop-off alternatives."
+    },
+    {
+      "n": 33,
+      "city": "Indianapolis",
+      "state": "IN",
+      "item": "Heavy Trash Pickup",
+      "slug": "heavy-trash-pickup",
+      "working_title": "Indianapolis Heavy Trash Pickup: Schedule, 2-Item Limit and Rules (2026)",
+      "primary_keyword": "indianapolis heavy trash pickup",
+      "start_with_agency": "Indy DPW (indy.gov/activity/trash-pickup, trash-101)",
+      "status": "published",
+      "published_url": "/indianapolis/heavy-trash-pickup/"
+    },
+    {
+      "n": 34,
+      "city": "Indianapolis",
+      "state": "IN",
+      "item": "Appliances and Tires",
+      "slug": "appliance-tire-disposal",
+      "working_title": "How to Get Rid of a Refrigerator, Appliances or Tires in Indianapolis (2026)",
+      "primary_keyword": "indianapolis tire disposal",
+      "start_with_agency": "Indy DPW / Mayor's Action Center / IDEM",
+      "status": "published",
+      "published_url": "/indianapolis/appliance-tire-disposal/"
+    },
+    {
+      "n": 35,
+      "city": "Indianapolis",
+      "state": "IN",
+      "item": "Couch and Furniture",
+      "slug": "couch",
+      "working_title": "How to Get Rid of a Couch in Indianapolis (2026)",
+      "primary_keyword": "how to get rid of a couch indianapolis",
+      "start_with_agency": "Indy DPW Trash 101 (heavy trash) / Citizens' Transfer Station",
+      "status": "queued",
+      "priority": "high"
+    },
+    {
+      "n": 36,
+      "city": "Indianapolis",
+      "state": "IN",
+      "item": "Dumpster Permit",
+      "slug": "dumpster-permit",
+      "working_title": "Do You Need a Dumpster Permit in Indianapolis? Cost and How to Apply (2026)",
+      "primary_keyword": "indianapolis dumpster permit",
+      "start_with_agency": "Indy DPW right-of-way permits / Dept. of Business and Neighborhood Services (dumpster or container on the street)",
+      "status": "queued",
+      "priority": "high"
+    },
+    {
+      "n": 37,
+      "city": "Indianapolis",
+      "state": "IN",
+      "item": "Electronics, Paint and Hazardous Waste",
+      "slug": "hazardous-waste-electronics",
+      "working_title": "Where to Drop Off Electronics, Paint and Hazardous Waste in Indianapolis (ToxDrop) (2026)",
+      "primary_keyword": "indianapolis toxdrop",
+      "start_with_agency": "Indy ToxDrop (Office of Sustainability) / RecycleForce, 816 N. Sherman Dr.",
+      "status": "queued",
+      "priority": "high"
+    },
+    {
+      "n": 38,
+      "city": "Indianapolis",
+      "state": "IN",
+      "item": "Furniture Donation Pickup",
+      "slug": "furniture-donation",
+      "working_title": "Free Furniture Donation Pickup in Indianapolis (2026)",
+      "primary_keyword": "furniture donation pickup indianapolis",
+      "start_with_agency": "indy.gov/recycle donation-center list (official list only)",
+      "status": "queued",
+      "priority": "high"
+    },
+    {
+      "n": 39,
+      "city": "Indianapolis",
+      "state": "IN",
+      "item": "Yard Waste and Leaves",
+      "slug": "yard-waste",
+      "working_title": "Indianapolis Yard Waste and Leaf Collection Rules (2026)",
+      "primary_keyword": "indianapolis yard waste pickup",
+      "start_with_agency": "Indy DPW leaf collection page / Trash 101 (GreenCycle)",
+      "status": "queued",
+      "priority": "high"
+    },
+    {
+      "n": 40,
+      "city": "Indianapolis",
+      "state": "IN",
+      "item": "Carpet",
+      "slug": "carpet",
+      "working_title": "How to Get Rid of Old Carpet in Indianapolis (2026)",
+      "primary_keyword": "indianapolis carpet disposal",
+      "start_with_agency": "Indy DPW Trash 101 / Citizens' Transfer Station (construction debris rules)",
+      "status": "queued",
+      "priority": "high"
     },
     {
       "n": 2,
@@ -370,6 +466,20 @@
       "item": "Bulk Item Pickup",
       "url_path": "/san-diego/bulk-item-pickup/",
       "published": "2026-10-23"
+    },
+    {
+      "city": "Indianapolis",
+      "state": "IN",
+      "item": "Heavy Trash Pickup",
+      "url_path": "/indianapolis/heavy-trash-pickup/",
+      "published": "2026-10-24"
+    },
+    {
+      "city": "Indianapolis",
+      "state": "IN",
+      "item": "Appliances and Tires",
+      "url_path": "/indianapolis/appliance-tire-disposal/",
+      "published": "2026-10-24"
     }
   ]
 }

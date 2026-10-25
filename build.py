@@ -165,7 +165,18 @@ def affiliate_href(key):
 def pickup_box(page):
     def render():
         items = []
-        for key, a in CONFIG["affiliates"].items():
+        # Optional front-matter "partners": list of affiliate keys that actually serve this city.
+        keys = page.get("partners")
+        if keys is None:
+            keys = list(CONFIG["affiliates"])
+        for key in keys:
+            if key not in CONFIG["affiliates"]:
+                ERRORS.append(f"{page['_path'].name}: unknown partner '{key}'")
+        keys = [k for k in keys if k in CONFIG["affiliates"]]
+        if not keys:
+            ERRORS.append(f"{page['_path'].name}: {{{{pickup-box}}}} used but no partners serve this city; remove the box")
+        for key in keys:
+            a = CONFIG["affiliates"][key]
             items.append(
                 f'<li><a class="btn" data-affiliate="{esc(key)}" href="{esc(affiliate_href(key))}" '
                 f'rel="sponsored nofollow noopener" target="_blank">{esc(a["name"])} &rarr;</a>'
