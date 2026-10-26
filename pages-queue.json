@@ -73,8 +73,10 @@
    "working_title": "Where to Drop Off Electronics, Paint and Hazardous Waste in Indianapolis (ToxDrop) (2026)",
    "primary_keyword": "indianapolis toxdrop",
    "start_with_agency": "Indy ToxDrop (Office of Sustainability) / RecycleForce, 816 N. Sherman Dr.",
-   "status": "queued",
-   "priority": "high"
+   "status": "published",
+   "priority": "high",
+   "published_url": "/indianapolis/hazardous-waste-electronics/",
+   "topic": "hazardous-waste"
   },
   {
    "n": 38,
@@ -462,8 +464,9 @@
    "working_title": "How to Get Rid of a Mattress in Indianapolis (2026)",
    "primary_keyword": "mattress disposal indianapolis",
    "start_with_agency": "Indy DPW Trash 101 (heavy trash, mattresses laid flat) / Citizens' Transfer Station",
-   "status": "queued",
-   "priority": "high"
+   "status": "published",
+   "priority": "high",
+   "published_url": "/indianapolis/mattress/"
   }
  ],
  "published": [
@@ -517,6 +520,21 @@
    "url_path": "/indianapolis/dumpster-permit/",
    "published": "2026-10-24",
    "topic": "dumpster-permit"
+  },
+  {
+   "city": "Indianapolis",
+   "state": "IN",
+   "item": "Mattress",
+   "url_path": "/indianapolis/mattress/",
+   "published": "2026-10-25"
+  },
+  {
+   "city": "Indianapolis",
+   "state": "IN",
+   "item": "Electronics, Paint and Hazardous Waste",
+   "url_path": "/indianapolis/hazardous-waste-electronics/",
+   "published": "2026-10-25",
+   "topic": "hazardous-waste"
   }
  ]
 }

@@ -93,3 +93,5 @@ Leaving furniture on public or private property without permission violates Sec.
 - [Indianapolis heavy trash pickup: find your day and the 2-item limit](/indianapolis/heavy-trash-pickup/)
 - [How to get rid of a refrigerator, appliance or tires in Indianapolis](/indianapolis/appliance-tire-disposal/)
 - [Do you need a dumpster permit in Indianapolis?](/indianapolis/dumpster-permit/)
+- [How to get rid of a mattress in Indianapolis](/indianapolis/mattress/)
+- [Where to drop off electronics, paint and hazardous waste in Indianapolis](/indianapolis/hazardous-waste-electronics/)

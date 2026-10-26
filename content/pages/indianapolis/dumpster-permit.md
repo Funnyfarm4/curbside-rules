@@ -99,3 +99,4 @@ Only have a carload or a pickup load? The Citizens' Transfer Station, 2324 S. Be
 - [Indianapolis heavy trash pickup: find your day and the 2-item limit](/indianapolis/heavy-trash-pickup/)
 - [How to get rid of a couch or furniture in Indianapolis](/indianapolis/couch/)
 - [How to get rid of a refrigerator, appliance or tires in Indianapolis](/indianapolis/appliance-tire-disposal/)
+- [How to get rid of a mattress in Indianapolis](/indianapolis/mattress/)
