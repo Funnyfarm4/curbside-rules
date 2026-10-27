@@ -13,8 +13,8 @@
   "pickup_intro": "If you have more to get rid of than the City's two-item heavy trash limit allows before move-out day, a paid junk-removal service may be easier. Confirm they serve your ZIP and check the price before you book.",
   "sources_note": "Every rent figure, rule and phone number on this page comes from these official or authoritative pages. Rents and waiting lists change, so confirm with the agency or landlord before you apply or pay anything.",
   "published": "2026-10-24",
-  "updated": "2026-10-24",
-  "last_checked": "2026-10-24",
+  "updated": "2026-10-27",
+  "last_checked": "2026-10-27",
   "sources": [
     {"id": "hud-fmr", "publisher": "HUD User", "title": "HUD Fair Market Rents (40th percentile rents): FY 2027 county-level data", "url": "https://www.huduser.gov/portal/datasets/fmr.html#data_2027", "checked": "2026-10-24"},
     {"id": "hud-safmr", "publisher": "HUD User", "title": "FY 2027 Small Area Fair Market Rents by ZIP code (spreadsheet)", "url": "https://www.huduser.gov/portal/datasets/fmr/fmr2027/FY27_safmrs.xlsx", "checked": "2026-10-24"},
@@ -28,7 +28,12 @@
     {"id": "hud-help", "publisher": "HUD", "title": "Helping Americans: Affordable Places to Live", "url": "https://www.hud.gov/helping-americans", "checked": "2026-10-24"},
     {"id": "indy-edp", "publisher": "indy.gov", "title": "Eviction Diversion Program (Office of Public Health and Safety)", "url": "https://www.indy.gov/activity/tenant-advocacy-project", "checked": "2026-10-24"},
     {"id": "ftc-scams", "publisher": "FTC", "title": "Rental Listing Scams (Consumer Advice)", "url": "https://consumer.ftc.gov/articles/rental-listing-scams", "checked": "2026-10-24"},
-    {"id": "ic-deposit", "publisher": "Indiana Code via Justia", "title": "Indiana Code 32-31-3-12: Return of security deposits; deductions", "url": "https://law.justia.com/codes/indiana/title-32/article-31/chapter-3/section-32-31-3-12/", "checked": "2026-10-24"}
+    {"id": "ic-deposit", "publisher": "Indiana Code via Justia", "title": "Indiana Code 32-31-3-12: Return of security deposits; deductions", "url": "https://law.justia.com/codes/indiana/title-32/article-31/chapter-3/section-32-31-3-12/", "checked": "2026-10-24"},
+    {"id": "ils", "publisher": "Indiana Legal Services", "title": "Indiana Legal Services home page", "url": "https://www.indianalegalservices.org/", "checked": "2026-10-27"},
+    {"id": "ilh", "publisher": "Indiana Legal Help", "title": "Indiana Legal Help", "url": "https://indianalegalhelp.org/", "checked": "2026-10-27"},
+    {"id": "nclc", "publisher": "Neighborhood Christian Legal Clinic", "title": "Neighborhood Christian Legal Clinic home page", "url": "https://www.nclegalclinic.org/", "checked": "2026-10-27"},
+    {"id": "aba-fla", "publisher": "American Bar Association", "title": "ABA Free Legal Answers", "url": "https://www.abafreelegalanswers.org/", "checked": "2026-10-27"},
+    {"id": "lawhelp", "publisher": "LawHelp.org", "title": "LawHelp.org: Find free legal help", "url": "https://www.lawhelp.org/", "checked": "2026-10-27"}
   ],
   "quick_facts": [
     "**HUD's FY 2027 Fair Market Rents for the Indianapolis area:** studio **$1,187**, 1-bedroom **$1,336**, 2-bedroom **$1,536**, 3-bedroom **$1,991**, 4-bedroom **$2,425** a month, including utilities. [[hud-fmr]]",
@@ -128,6 +133,17 @@ To check who owns a property, the FTC suggests looking up county property record
 ## Move-in costs and getting your deposit back
 
 Budget for an application fee, a security deposit and the first month's rent, and get every amount in writing before you pay. When you move out, Indiana law gives the landlord **45 days** after the lease ends and you return the unit to send back your deposit, minus any itemized deductions for unpaid rent, damage beyond normal wear, or unpaid utilities. You have to give the landlord a **mailing address in writing** first. If the landlord doesn't follow these rules, you can recover the full deposit plus reasonable attorney's fees [[ic-deposit]].
+
+## Free legal help for renters
+
+If you're facing an eviction, a deposit dispute or a landlord problem, these groups offer **free or low-cost legal aid**. They are not paid partners, and we earn nothing if you contact them. Most have income limits, so check whether you qualify.
+
+- [Indiana Legal Services](https://www.indianalegalservices.org/): Indiana's largest nonprofit law firm, giving free civil legal help, including housing cases, to eligible low-income Hoosiers [[ils]].
+- [Indiana Legal Help](https://indianalegalhelp.org/): free plain-language guides, forms and a directory for finding legal help in Indiana [[ilh]].
+- [Neighborhood Christian Legal Clinic](https://www.nclegalclinic.org/): an Indianapolis nonprofit offering free or low-cost legal services to people with limited incomes [[nclc]].
+- [ABA Free Legal Answers](https://www.abafreelegalanswers.org/): ask a civil legal question online and a volunteer lawyer answers it for free, if you qualify [[aba-fla]].
+- [LawHelp.org](https://www.lawhelp.org/): find nonprofit legal aid providers and free legal information in your state [[lawhelp]].
+- **Already facing eviction in Indianapolis?** The City's [Tenant Advocacy Project / Eviction Diversion Program](https://www.indy.gov/activity/tenant-advocacy-project) and the Tenant Information Hotline (**317-327-2228**) can help right away [[indy-edp]].
 
 ## Moving out of your old place
 
