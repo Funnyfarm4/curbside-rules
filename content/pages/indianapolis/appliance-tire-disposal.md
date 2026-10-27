@@ -105,3 +105,5 @@ Dumping tires or appliances on public or private property without permission vio
 - [Do you need a dumpster permit in Indianapolis?](/indianapolis/dumpster-permit/)
 - [Where to drop off electronics, paint and hazardous waste in Indianapolis](/indianapolis/hazardous-waste-electronics/)
 - [How to get rid of a mattress in Indianapolis](/indianapolis/mattress/)
+- [Free furniture donation pickup in Indianapolis](/indianapolis/furniture-donation/)
+- [How to get rid of construction and remodeling debris in Indianapolis](/indianapolis/construction-debris/)

@@ -100,3 +100,5 @@ Hazardous waste is on the City's list of items that count as illegal dumping whe
 - [Indianapolis heavy trash pickup: find your day and the 2-item limit](/indianapolis/heavy-trash-pickup/)
 - [How to get rid of a mattress in Indianapolis](/indianapolis/mattress/)
 - [How to get rid of a couch in Indianapolis](/indianapolis/couch/)
+- [Free furniture donation pickup in Indianapolis](/indianapolis/furniture-donation/)
+- [How to get rid of construction and remodeling debris in Indianapolis](/indianapolis/construction-debris/)

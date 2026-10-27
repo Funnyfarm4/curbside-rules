@@ -121,3 +121,5 @@ Leaving trash or unwanted items on public or private property without permission
 - [Do you need a dumpster permit in Indianapolis?](/indianapolis/dumpster-permit/)
 - [How to get rid of a mattress in Indianapolis](/indianapolis/mattress/)
 - [Where to drop off electronics, paint and hazardous waste in Indianapolis](/indianapolis/hazardous-waste-electronics/)
+- [Free furniture donation pickup in Indianapolis](/indianapolis/furniture-donation/)
+- [How to get rid of construction and remodeling debris in Indianapolis](/indianapolis/construction-debris/)

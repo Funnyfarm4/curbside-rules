@@ -87,8 +87,10 @@
    "working_title": "Free Furniture Donation Pickup in Indianapolis (2026)",
    "primary_keyword": "furniture donation pickup indianapolis",
    "start_with_agency": "indy.gov/recycle donation-center list (official list only)",
-   "status": "queued",
-   "priority": "high"
+   "status": "published",
+   "priority": "high",
+   "published_url": "/indianapolis/furniture-donation/",
+   "topic": "donation-pickup"
   },
   {
    "n": 39,
@@ -112,7 +114,7 @@
    "primary_keyword": "indianapolis carpet disposal",
    "start_with_agency": "Indy DPW Trash 101 / Citizens' Transfer Station (construction debris rules)",
    "status": "queued",
-   "priority": "high"
+   "note": "Oct 26, 2026: no official Indy, landfill or ReStore page names carpet specifically (only \"construction debris\" exclusions and ReStore \"area rugs & flooring\"); revisit if an official source turns up. Construction debris page published instead."
   },
   {
    "n": 2,
@@ -467,6 +469,32 @@
    "status": "published",
    "priority": "high",
    "published_url": "/indianapolis/mattress/"
+  },
+  {
+   "n": 42,
+   "city": "Indianapolis",
+   "state": "IN",
+   "item": "Construction and Remodeling Debris",
+   "slug": "construction-debris",
+   "working_title": "How to Get Rid of Construction and Remodeling Debris in Indianapolis (2026)",
+   "primary_keyword": "indianapolis construction debris disposal",
+   "start_with_agency": "Indy DPW Trash 101 / South Side Landfill rates and FAQ",
+   "status": "published",
+   "priority": "high",
+   "published_url": "/indianapolis/construction-debris/"
+  },
+  {
+   "n": 43,
+   "city": "Chicago",
+   "state": "IL",
+   "item": "Dumpster Permit",
+   "slug": "dumpster-permit",
+   "working_title": "Do You Need a Dumpster Permit in Chicago? (2026)",
+   "primary_keyword": "chicago dumpster permit",
+   "start_with_agency": "Chicago Department of Transportation (CDOT) public way permits",
+   "status": "queued",
+   "priority": "high",
+   "topic": "dumpster-permit"
   }
  ],
  "published": [
@@ -535,6 +563,21 @@
    "url_path": "/indianapolis/hazardous-waste-electronics/",
    "published": "2026-10-25",
    "topic": "hazardous-waste"
+  },
+  {
+   "city": "Indianapolis",
+   "state": "IN",
+   "item": "Furniture Donation Pickup",
+   "url_path": "/indianapolis/furniture-donation/",
+   "published": "2026-10-26",
+   "topic": "donation-pickup"
+  },
+  {
+   "city": "Indianapolis",
+   "state": "IN",
+   "item": "Construction and Remodeling Debris",
+   "url_path": "/indianapolis/construction-debris/",
+   "published": "2026-10-26"
   }
  ]
 }

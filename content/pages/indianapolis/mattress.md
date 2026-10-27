@@ -93,3 +93,5 @@ Mattresses are named on the City's list of things that count as illegal dumping 
 - [How to get rid of a couch in Indianapolis](/indianapolis/couch/)
 - [Where to drop off electronics, paint and hazardous waste in Indianapolis](/indianapolis/hazardous-waste-electronics/)
 - [Do you need a dumpster permit in Indianapolis?](/indianapolis/dumpster-permit/)
+- [Free furniture donation pickup in Indianapolis](/indianapolis/furniture-donation/)
+- [How to get rid of construction and remodeling debris in Indianapolis](/indianapolis/construction-debris/)
