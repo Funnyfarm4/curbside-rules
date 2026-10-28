@@ -136,7 +136,10 @@
    "working_title": "How to Get Rid of a Mattress in NYC: DSNY Rules (2026)",
    "primary_keyword": "nyc dsny mattress disposal rules",
    "start_with_agency": "NYC Department of Sanitation (DSNY)",
-   "status": "queued"
+   "status": "published",
+   "published_url": "/new-york-city/mattress/",
+   "priority": "high",
+   "note": "Oct 27, 2026: DSNY collection laws say a CLEAR bag; NYC311 says any color except red/orange (page recommends clear). Fines $50/$100/$200 per DSNY laws and 311; DSNY furniture page says up to $300. nyc.gov DSNY pages need WebFetch (Akamai blocks curl/headless Chrome); portal.311.nyc.gov renders in headless Chrome."
   },
   {
    "n": 4,
@@ -433,7 +436,8 @@
    "working_title": "How to Get Rid of a Couch in NYC (2026)",
    "primary_keyword": "nyc couch disposal",
    "start_with_agency": "NYC Department of Sanitation (DSNY)",
-   "status": "queued"
+   "status": "queued",
+   "priority": "high"
   },
   {
    "n": 31,
@@ -444,7 +448,8 @@
    "working_title": "How to Get Rid of a Mattress in Chicago (2026)",
    "primary_keyword": "chicago mattress disposal",
    "start_with_agency": "City of Chicago Department of Streets and Sanitation",
-   "status": "queued"
+   "status": "queued",
+   "priority": "high"
   },
   {
    "n": 32,
@@ -492,6 +497,59 @@
    "working_title": "Do You Need a Dumpster Permit in Chicago? (2026)",
    "primary_keyword": "chicago dumpster permit",
    "start_with_agency": "Chicago Department of Transportation (CDOT) public way permits",
+   "status": "published",
+   "priority": "high",
+   "topic": "dumpster-permit",
+   "published_url": "/chicago/dumpster-permit/",
+   "note": "Oct 27, 2026: chicago.gov /content/dam PDFs (2026 fee schedule, 2026 dumpster application) return Access Denied to the box and time out in WebFetch, so the CDOT application fee amount is omitted; usage fees cited from Municipal Code 10-28-799 and the IPI-hosted CDOT dumpster application."
+  },
+  {
+   "n": 44,
+   "city": "New York City",
+   "state": "NY",
+   "item": "Couch and Furniture",
+   "slug": "couch",
+   "working_title": "How to Get Rid of a Couch in NYC (2026)",
+   "primary_keyword": "nyc couch disposal",
+   "start_with_agency": "DSNY Large Items / Furniture page; NYC311 Bulk Item Disposal (KA-01969)",
+   "status": "queued",
+   "priority": "high"
+  },
+  {
+   "n": 45,
+   "city": "New York City",
+   "state": "NY",
+   "item": "Furniture Donation Pickup",
+   "slug": "furniture-donation",
+   "working_title": "Free Furniture Donation Pickup in NYC (2026)",
+   "primary_keyword": "furniture donation pickup nyc",
+   "start_with_agency": "DSNY DonateNYC directory (official list only)",
+   "status": "queued",
+   "priority": "high",
+   "topic": "donation-pickup"
+  },
+  {
+   "n": 46,
+   "city": "Chicago",
+   "state": "IL",
+   "item": "Electronics, Paint and Hazardous Waste",
+   "slug": "hazardous-waste-electronics",
+   "working_title": "Where to Drop Off Electronics, Paint and Hazardous Waste in Chicago (2026)",
+   "primary_keyword": "chicago household hazardous waste drop off",
+   "start_with_agency": "City of Chicago Household Chemicals & Computer Recycling Facility (Streets and Sanitation)",
+   "status": "queued",
+   "priority": "high",
+   "topic": "hazardous-waste"
+  },
+  {
+   "n": 47,
+   "city": "New York City",
+   "state": "NY",
+   "item": "Dumpster Permit",
+   "slug": "dumpster-permit",
+   "working_title": "Do You Need a Dumpster Permit in NYC? (2026)",
+   "primary_keyword": "nyc dumpster permit",
+   "start_with_agency": "NYC DOT sidewalk/street container permits",
    "status": "queued",
    "priority": "high",
    "topic": "dumpster-permit"
@@ -578,6 +636,21 @@
    "item": "Construction and Remodeling Debris",
    "url_path": "/indianapolis/construction-debris/",
    "published": "2026-10-26"
+  },
+  {
+   "city": "New York City",
+   "state": "NY",
+   "item": "Mattress",
+   "url_path": "/new-york-city/mattress/",
+   "published": "2026-10-27"
+  },
+  {
+   "city": "Chicago",
+   "state": "IL",
+   "item": "Dumpster Permit",
+   "url_path": "/chicago/dumpster-permit/",
+   "published": "2026-10-27",
+   "topic": "dumpster-permit"
   }
  ]
 }
