@@ -19,7 +19,7 @@
     {"id": "ssl-rates", "publisher": "South Side Landfill", "title": "Rates", "url": "https://www.ssidelandfill.com/rates/", "checked": "2026-10-26"},
     {"id": "ssl-faq", "publisher": "South Side Landfill", "title": "FAQ", "url": "https://www.ssidelandfill.com/faq/", "checked": "2026-10-26"},
     {"id": "hab-donate", "publisher": "Greater Indy Habitat for Humanity", "title": "ReStore Donations", "url": "https://indyhabitat.org/restore-donations/", "checked": "2026-10-26"},
-    {"id": "indy-recycle", "publisher": "indy.gov", "title": "Recycling 101 (Office of Sustainability)", "url": "https://www.indy.gov/recycle", "checked": "2026-10-26"},
+    {"id": "indy-recycle", "publisher": "indy.gov", "title": "Recycling 101 (Office of Sustainability)", "url": "https://www.indy.gov/activity/recycling-101", "checked": "2026-10-26"},
     {"id": "indy-dumping", "publisher": "indy.gov", "title": "Illegal Dumping (Department of Business and Neighborhood Services)", "url": "https://www.indy.gov/activity/illegal-dumping", "checked": "2026-10-26"},
     {"id": "indy-dropoff", "publisher": "indy.gov", "title": "Find a Recycling Drop-Off Location (Office of Sustainability)", "url": "https://www.indy.gov/activity/find-a-recycling-drop-off-location", "checked": "2026-10-26"}
   ],

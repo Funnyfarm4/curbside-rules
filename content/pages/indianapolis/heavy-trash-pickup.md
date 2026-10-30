@@ -98,7 +98,7 @@ The **Marion County Citizens' Transfer Station** takes extra household trash, he
 
 If that doesn't work, the City says you can take trash directly to **South Side Landfill**, 2561 Kentucky Ave., open Monday to Friday 5 a.m. to 7 p.m. and Saturday 5 a.m. to 3 p.m. Pricing is based on volume; the City links to the landfill for current rates [[indy-101]].
 
-Still in good shape? The City suggests donating usable items first and lists local donation centers at indy.gov/recycle [[indy-dropoff]].
+Still in good shape? The City suggests donating usable items first and lists local donation centers on indy.gov's [Recycling 101 page](https://www.indy.gov/activity/recycling-101) [[indy-dropoff]].
 
 ## Hiring a hauler
 

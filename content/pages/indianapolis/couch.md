@@ -72,7 +72,7 @@ That last rule matters for couches: if it only fits on a trailer or in a rented 
 
 ## Option 3: Donate it
 
-If the couch is still in good shape, the City suggests donating it first and keeps a list of local donation centers at indy.gov/recycle [[indy-dropoff]]. Call ahead, since each charity sets its own rules.
+If the couch is still in good shape, the City suggests donating it first and keeps a list of local donation centers on indy.gov's [Recycling 101 page](https://www.indy.gov/activity/recycling-101) [[indy-dropoff]]. Call ahead, since each charity sets its own rules.
 
 ## Hiring a hauler
 

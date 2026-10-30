@@ -14,7 +14,7 @@
   "updated": "2026-10-26",
   "last_checked": "2026-10-26",
   "sources": [
-    {"id": "indy-recycle", "publisher": "indy.gov", "title": "Recycling 101: Local donation centers (Office of Sustainability)", "url": "https://www.indy.gov/recycle", "checked": "2026-10-26"},
+    {"id": "indy-recycle", "publisher": "indy.gov", "title": "Recycling 101: Local donation centers (Office of Sustainability)", "url": "https://www.indy.gov/activity/recycling-101", "checked": "2026-10-26"},
     {"id": "hab-donate", "publisher": "Greater Indy Habitat for Humanity", "title": "ReStore Donations", "url": "https://indyhabitat.org/restore-donations/", "checked": "2026-10-26"},
     {"id": "hab-stores", "publisher": "Habitat for Humanity", "title": "Greater Indy Habitat for Humanity: ReStore locations", "url": "https://www.habitat.org/in/indianapolis/greater-indy-habitat-humanity", "checked": "2026-10-26"},
     {"id": "svdp-give", "publisher": "SVdP Indy", "title": "Give: Household & Other Items", "url": "https://www.svdpindy.org/give/", "checked": "2026-10-26"},

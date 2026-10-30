@@ -71,7 +71,7 @@ If the only way you can move your mattress is on a trailer or in a rented moving
 
 ## Option 3: Donate it
 
-If the mattress is in good condition, the City suggests donating it and keeps a list of local donation centers at indy.gov/recycle [[indy-dropoff]]. Each charity sets its own rules, so call before you load it.
+If the mattress is in good condition, the City suggests donating it and keeps a list of local donation centers on indy.gov's [Recycling 101 page](https://www.indy.gov/activity/recycling-101) [[indy-dropoff]]. Each charity sets its own rules, so call before you load it.
 
 ## Hiring a hauler
 

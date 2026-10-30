@@ -216,7 +216,8 @@
       "working_title": "How to Get Rid of a Couch in Boston (2026)",
       "primary_keyword": "how to get rid of a couch boston",
       "start_with_agency": "City of Boston Public Works",
-      "status": "queued"
+      "status": "queued",
+      "note": "2026-10-29: boston.gov says furniture goes out with normal curbside trash on collection day (no appointment); thin page on its own, consider combining with donation options."
     },
     {
       "n": 11,
@@ -227,7 +228,8 @@
       "working_title": "How to Get Rid of a Refrigerator in Boston (2026)",
       "primary_keyword": "boston refrigerator disposal",
       "start_with_agency": "City of Boston Public Works / Boston 311",
-      "status": "queued"
+      "status": "published",
+      "note": "2026-10-29: published from boston.gov Special Collection Items page; also covers washer/dryer/stove (Waste Sorting Tool) and dishwasher/water heater (private hauler)."
     },
     {
       "n": 12,
@@ -542,6 +544,44 @@
       "status": "published",
       "priority": "high",
       "topic": "dumpster-permit"
+    },
+    {
+      "n": 48,
+      "city": "Boston",
+      "state": "MA",
+      "item": "Dumpster Permit",
+      "slug": "dumpster-permit",
+      "working_title": "Do You Need a Dumpster Permit in Boston? (2026)",
+      "primary_keyword": "boston dumpster permit",
+      "start_with_agency": "Boston Public Works street occupancy permit",
+      "status": "published",
+      "topic": "dumpster-permit"
+    },
+    {
+      "n": 49,
+      "city": "Boston",
+      "state": "MA",
+      "item": "Electronics, Paint and Hazardous Waste",
+      "slug": "hazardous-waste-electronics",
+      "working_title": "Boston Zero Waste Days: Where to Drop Off Paint, Electronics and Hazardous Waste (2026)",
+      "primary_keyword": "boston hazardous waste drop off",
+      "start_with_agency": "boston.gov Zero Waste Day page",
+      "status": "queued",
+      "priority": "high",
+      "topic": "hazardous-waste"
+    },
+    {
+      "n": 50,
+      "city": "Boston",
+      "state": "MA",
+      "item": "Construction Debris",
+      "slug": "construction-debris",
+      "working_title": "How to Get Rid of Construction Debris in Boston (2026)",
+      "primary_keyword": "boston construction debris disposal",
+      "start_with_agency": "boston.gov Trash page (City does not collect construction debris) / MassDEP C&D waste ban FAQ",
+      "status": "queued",
+      "priority": "high",
+      "note": "City does not collect construction debris, water heaters, plumbing fixtures: high hauler intent."
     }
   ],
   "published": [
@@ -654,6 +694,21 @@
       "item": "Dumpster Permit",
       "url_path": "/new-york-city/dumpster-permit/",
       "published": "2026-10-28",
+      "topic": "dumpster-permit"
+    },
+    {
+      "city": "Boston",
+      "state": "MA",
+      "item": "Refrigerator and Appliances",
+      "url_path": "/boston/refrigerator/",
+      "published": "2026-10-29"
+    },
+    {
+      "city": "Boston",
+      "state": "MA",
+      "item": "Dumpster Permit",
+      "url_path": "/boston/dumpster-permit/",
+      "published": "2026-10-29",
       "topic": "dumpster-permit"
     }
   ]
