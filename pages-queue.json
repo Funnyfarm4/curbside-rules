@@ -566,7 +566,7 @@
       "working_title": "Boston Zero Waste Days: Where to Drop Off Paint, Electronics and Hazardous Waste (2026)",
       "primary_keyword": "boston hazardous waste drop off",
       "start_with_agency": "boston.gov Zero Waste Day page",
-      "status": "queued",
+      "status": "published",
       "priority": "high",
       "topic": "hazardous-waste"
     },
@@ -579,7 +579,7 @@
       "working_title": "How to Get Rid of Construction Debris in Boston (2026)",
       "primary_keyword": "boston construction debris disposal",
       "start_with_agency": "boston.gov Trash page (City does not collect construction debris) / MassDEP C&D waste ban FAQ",
-      "status": "queued",
+      "status": "published",
       "priority": "high",
       "note": "City does not collect construction debris, water heaters, plumbing fixtures: high hauler intent."
     }
@@ -710,6 +710,21 @@
       "url_path": "/boston/dumpster-permit/",
       "published": "2026-10-29",
       "topic": "dumpster-permit"
+    },
+    {
+      "city": "Boston",
+      "state": "MA",
+      "item": "Electronics, Paint and Hazardous Waste",
+      "url_path": "/boston/hazardous-waste-electronics/",
+      "published": "2026-10-30",
+      "topic": "hazardous-waste"
+    },
+    {
+      "city": "Boston",
+      "state": "MA",
+      "item": "Construction Debris",
+      "url_path": "/boston/construction-debris/",
+      "published": "2026-10-30"
     }
   ]
 }
