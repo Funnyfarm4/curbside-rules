@@ -183,7 +183,8 @@
       "working_title": "Phoenix Bulk Trash Schedule and Rules (2026)",
       "primary_keyword": "phoenix bulk trash schedule",
       "start_with_agency": "City of Phoenix Public Works",
-      "status": "queued"
+      "status": "published",
+      "note": "2026-10-31: published as /phoenix/bulk-trash/. City Code 27-22 lists mattresses/furniture as unacceptable while the Public Works page names furniture as bulk trash; page tells readers to call 602-262-6251."
     },
     {
       "n": 8,
@@ -528,7 +529,7 @@
       "working_title": "Where to Drop Off Electronics, Paint and Hazardous Waste in Chicago (2026)",
       "primary_keyword": "chicago household hazardous waste drop off",
       "start_with_agency": "City of Chicago Household Chemicals & Computer Recycling Facility (Streets and Sanitation)",
-      "status": "queued",
+      "status": "published",
       "priority": "high",
       "topic": "hazardous-waste"
     },
@@ -582,6 +583,44 @@
       "status": "published",
       "priority": "high",
       "note": "City does not collect construction debris, water heaters, plumbing fixtures: high hauler intent."
+    },
+    {
+      "n": 51,
+      "city": "Phoenix",
+      "state": "AZ",
+      "item": "Dumpster Permit",
+      "slug": "dumpster-permit",
+      "working_title": "Do You Need a Dumpster Permit in Phoenix? (2026)",
+      "primary_keyword": "phoenix dumpster permit",
+      "start_with_agency": "City of Phoenix Street Transportation (right-of-way permits) / Public Works Dumpster Rental page",
+      "status": "queued",
+      "priority": "high",
+      "topic": "dumpster-permit"
+    },
+    {
+      "n": 52,
+      "city": "Phoenix",
+      "state": "AZ",
+      "item": "Mattress",
+      "slug": "mattress",
+      "working_title": "How to Get Rid of a Mattress in Phoenix (2026)",
+      "primary_keyword": "phoenix mattress disposal",
+      "start_with_agency": "City of Phoenix Public Works (confirm mattress rule vs City Code 27-22) / transfer stations",
+      "status": "queued",
+      "priority": "high"
+    },
+    {
+      "n": 53,
+      "city": "Phoenix",
+      "state": "AZ",
+      "item": "Electronics, Paint and Hazardous Waste",
+      "slug": "hazardous-waste-electronics",
+      "working_title": "Phoenix Household Hazardous Waste Drop-Off (2026)",
+      "primary_keyword": "phoenix household hazardous waste",
+      "start_with_agency": "City of Phoenix Public Works Household Hazardous Waste page",
+      "status": "queued",
+      "priority": "high",
+      "topic": "hazardous-waste"
     }
   ],
   "published": [
@@ -725,6 +764,21 @@
       "item": "Construction Debris",
       "url_path": "/boston/construction-debris/",
       "published": "2026-10-30"
+    },
+    {
+      "city": "Chicago",
+      "state": "IL",
+      "item": "Electronics, Paint and Hazardous Waste",
+      "url_path": "/chicago/hazardous-waste-electronics/",
+      "published": "2026-10-31",
+      "topic": "hazardous-waste"
+    },
+    {
+      "city": "Phoenix",
+      "state": "AZ",
+      "item": "Bulk Trash",
+      "url_path": "/phoenix/bulk-trash/",
+      "published": "2026-10-31"
     }
   ]
 }
