@@ -150,7 +150,7 @@
       "working_title": "Austin Bulk Item Collection: Schedule and Rules (2026)",
       "primary_keyword": "austin bulk pickup schedule",
       "start_with_agency": "Austin Resource Recovery",
-      "status": "queued"
+      "status": "published"
     },
     {
       "n": 5,
@@ -593,7 +593,7 @@
       "working_title": "Do You Need a Dumpster Permit in Phoenix? (2026)",
       "primary_keyword": "phoenix dumpster permit",
       "start_with_agency": "City of Phoenix Street Transportation (right-of-way permits) / Public Works Dumpster Rental page",
-      "status": "queued",
+      "status": "published",
       "priority": "high",
       "topic": "dumpster-permit"
     },
@@ -607,7 +607,8 @@
       "primary_keyword": "phoenix mattress disposal",
       "start_with_agency": "City of Phoenix Public Works (confirm mattress rule vs City Code 27-22) / transfer stations",
       "status": "queued",
-      "priority": "high"
+      "priority": "high",
+      "note": "2026-11-01: still deferred. City Code 27-22(I)(8) says mattresses/furniture are not acceptable bulk trash, while the Public Works bulk page lists furniture as typical bulk; transfer stations are the clean official option. Publish once Public Works clarifies."
     },
     {
       "n": 53,
@@ -618,6 +619,44 @@
       "working_title": "Phoenix Household Hazardous Waste Drop-Off (2026)",
       "primary_keyword": "phoenix household hazardous waste",
       "start_with_agency": "City of Phoenix Public Works Household Hazardous Waste page",
+      "status": "queued",
+      "priority": "high",
+      "topic": "hazardous-waste"
+    },
+    {
+      "n": 54,
+      "city": "Austin",
+      "state": "TX",
+      "item": "Couch and Furniture",
+      "slug": "couch",
+      "working_title": "How to Get Rid of a Couch in Austin (2026)",
+      "primary_keyword": "how to get rid of a couch austin",
+      "start_with_agency": "Austin Resource Recovery on-demand bulk page / Recycle and Reuse Center (no furniture) / Austin Reuse Directory",
+      "status": "queued",
+      "priority": "high"
+    },
+    {
+      "n": 55,
+      "city": "Austin",
+      "state": "TX",
+      "item": "Dumpster Permit",
+      "slug": "dumpster-permit",
+      "working_title": "Do You Need a Dumpster Permit in Austin? (2026)",
+      "primary_keyword": "austin dumpster permit",
+      "start_with_agency": "Austin Transportation and Public Works right-of-way permits",
+      "status": "queued",
+      "priority": "high",
+      "topic": "dumpster-permit"
+    },
+    {
+      "n": 56,
+      "city": "Austin",
+      "state": "TX",
+      "item": "Electronics, Paint and Hazardous Waste",
+      "slug": "hazardous-waste-electronics",
+      "working_title": "Austin Household Hazardous Waste Drop-Off and Pickup (2026)",
+      "primary_keyword": "austin household hazardous waste",
+      "start_with_agency": "Austin Resource Recovery Recycle and Reuse Center / on-demand HHW collection",
       "status": "queued",
       "priority": "high",
       "topic": "hazardous-waste"
@@ -779,6 +818,21 @@
       "item": "Bulk Trash",
       "url_path": "/phoenix/bulk-trash/",
       "published": "2026-10-31"
+    },
+    {
+      "city": "Phoenix",
+      "state": "AZ",
+      "item": "Dumpster Permit",
+      "url_path": "/phoenix/dumpster-permit/",
+      "published": "2026-11-01",
+      "topic": "dumpster-permit"
+    },
+    {
+      "city": "Austin",
+      "state": "TX",
+      "item": "Bulk Item Collection",
+      "url_path": "/austin/bulk-collection/",
+      "published": "2026-11-01"
     }
   ]
 }
