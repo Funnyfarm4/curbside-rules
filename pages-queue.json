@@ -161,7 +161,8 @@
       "working_title": "How to Request Bulk Trash Pickup in Nashville (2026)",
       "primary_keyword": "nashville bulk trash pickup",
       "start_with_agency": "Metro Nashville Public Works / hubNashville",
-      "status": "queued"
+      "status": "published",
+      "note": "2026-11-02: published as /nashville/bulk-pickup/. Curbside bulk is run by the Davidson County Sheriff's Office (615-880-3897), not Metro Waste Services."
     },
     {
       "n": 6,
@@ -633,7 +634,8 @@
       "primary_keyword": "how to get rid of a couch austin",
       "start_with_agency": "Austin Resource Recovery on-demand bulk page / Recycle and Reuse Center (no furniture) / Austin Reuse Directory",
       "status": "queued",
-      "priority": "high"
+      "priority": "high",
+      "note": "2026-11-02: overlaps heavily with /austin/bulk-collection/ (furniture accepted, no reuse option, Reuse Directory). Publish only with distinct value, e.g. verified donation pickups from the Austin Reuse Directory."
     },
     {
       "n": 55,
@@ -646,7 +648,8 @@
       "start_with_agency": "Austin Transportation and Public Works right-of-way permits",
       "status": "queued",
       "priority": "high",
-      "topic": "dumpster-permit"
+      "topic": "dumpster-permit",
+      "note": "2026-11-02: deferred. austintexas.gov ROW pages cover moving/storage containers (Parking permit, case by case) and say dumpster permits need bond/insurance/ROW contractor license, but no fetchable official page states dumpster placement rules or which permit/fee applies. Find the dumpster-specific rule (Parking Considerations PDF or ROW contractor guide) before publishing."
     },
     {
       "n": 56,
@@ -660,6 +663,54 @@
       "status": "queued",
       "priority": "high",
       "topic": "hazardous-waste"
+    },
+    {
+      "n": 57,
+      "city": "Nashville",
+      "state": "TN",
+      "item": "Mattress",
+      "slug": "mattress",
+      "working_title": "How to Get Rid of a Mattress in Nashville (2026)",
+      "primary_keyword": "nashville mattress disposal",
+      "start_with_agency": "Davidson County Sheriff bulk item removal / Metro Convenience Centers",
+      "status": "published"
+    },
+    {
+      "n": 58,
+      "city": "Nashville",
+      "state": "TN",
+      "item": "Dumpster Permit",
+      "slug": "dumpster-permit",
+      "working_title": "Do You Need a Dumpster Permit in Nashville? (2026)",
+      "primary_keyword": "nashville dumpster permit",
+      "start_with_agency": "Nashville Department of Transportation (NDOT) right-of-way permits",
+      "status": "queued",
+      "priority": "high",
+      "topic": "dumpster-permit"
+    },
+    {
+      "n": 59,
+      "city": "Nashville",
+      "state": "TN",
+      "item": "Electronics, Paint and Hazardous Waste",
+      "slug": "hazardous-waste-electronics",
+      "working_title": "Nashville Household Hazardous Waste and Electronics Drop-Off (2026)",
+      "primary_keyword": "nashville household hazardous waste",
+      "start_with_agency": "Nashville Waste Services HHW and e-waste pages (East and Ezell Pike centers)",
+      "status": "queued",
+      "topic": "hazardous-waste"
+    },
+    {
+      "n": 60,
+      "city": "Nashville",
+      "state": "TN",
+      "item": "Couch and Furniture",
+      "slug": "couch",
+      "working_title": "How to Get Rid of a Couch in Nashville (2026)",
+      "primary_keyword": "how to get rid of a couch nashville",
+      "start_with_agency": "Davidson County Sheriff bulk item removal / Metro Convenience Centers (1 free bulk item)",
+      "status": "queued",
+      "priority": "high"
     }
   ],
   "published": [
@@ -833,6 +884,20 @@
       "item": "Bulk Item Collection",
       "url_path": "/austin/bulk-collection/",
       "published": "2026-11-01"
+    },
+    {
+      "city": "Nashville",
+      "state": "TN",
+      "item": "Bulk Trash Pickup",
+      "url_path": "/nashville/bulk-pickup/",
+      "published": "2026-11-02"
+    },
+    {
+      "city": "Nashville",
+      "state": "TN",
+      "item": "Mattress",
+      "url_path": "/nashville/mattress/",
+      "published": "2026-11-02"
     }
   ]
 }
