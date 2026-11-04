@@ -660,7 +660,7 @@
       "working_title": "Austin Household Hazardous Waste Drop-Off and Pickup (2026)",
       "primary_keyword": "austin household hazardous waste",
       "start_with_agency": "Austin Resource Recovery Recycle and Reuse Center / on-demand HHW collection",
-      "status": "queued",
+      "status": "published",
       "priority": "high",
       "topic": "hazardous-waste"
     },
@@ -684,7 +684,7 @@
       "working_title": "Do You Need a Dumpster Permit in Nashville? (2026)",
       "primary_keyword": "nashville dumpster permit",
       "start_with_agency": "Nashville Department of Transportation (NDOT) right-of-way permits",
-      "status": "queued",
+      "status": "published",
       "priority": "high",
       "topic": "dumpster-permit"
     },
@@ -898,6 +898,22 @@
       "item": "Mattress",
       "url_path": "/nashville/mattress/",
       "published": "2026-11-02"
+    },
+    {
+      "city": "Nashville",
+      "state": "TN",
+      "item": "Dumpster Permit",
+      "url_path": "/nashville/dumpster-permit/",
+      "published": "2026-11-03",
+      "topic": "dumpster-permit"
+    },
+    {
+      "city": "Austin",
+      "state": "TX",
+      "item": "Electronics, Paint and Hazardous Waste",
+      "url_path": "/austin/hazardous-waste-electronics/",
+      "published": "2026-11-03",
+      "topic": "hazardous-waste"
     }
   ]
 }
