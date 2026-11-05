@@ -620,7 +620,7 @@
       "working_title": "Phoenix Household Hazardous Waste Drop-Off (2026)",
       "primary_keyword": "phoenix household hazardous waste",
       "start_with_agency": "City of Phoenix Public Works Household Hazardous Waste page",
-      "status": "queued",
+      "status": "published",
       "priority": "high",
       "topic": "hazardous-waste"
     },
@@ -709,7 +709,7 @@
       "working_title": "How to Get Rid of a Couch in Nashville (2026)",
       "primary_keyword": "how to get rid of a couch nashville",
       "start_with_agency": "Davidson County Sheriff bulk item removal / Metro Convenience Centers (1 free bulk item)",
-      "status": "queued",
+      "status": "published",
       "priority": "high"
     }
   ],
@@ -914,6 +914,21 @@
       "url_path": "/austin/hazardous-waste-electronics/",
       "published": "2026-11-03",
       "topic": "hazardous-waste"
+    },
+    {
+      "city": "Phoenix",
+      "state": "AZ",
+      "item": "Electronics, Paint and Hazardous Waste",
+      "url_path": "/phoenix/hazardous-waste-electronics/",
+      "published": "2026-11-04",
+      "topic": "hazardous-waste"
+    },
+    {
+      "city": "Nashville",
+      "state": "TN",
+      "item": "Couch and Furniture",
+      "url_path": "/nashville/couch/",
+      "published": "2026-11-04"
     }
   ]
 }
