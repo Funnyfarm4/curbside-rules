@@ -440,9 +440,10 @@
       "working_title": "How to Get Rid of a Mattress in Chicago (2026)",
       "primary_keyword": "chicago mattress disposal",
       "start_with_agency": "City of Chicago Department of Streets and Sanitation",
-      "status": "queued",
+      "status": "published",
       "priority": "high",
-      "note": "2026-10-28: deferred. chicago.gov sanitation pages give no mattress/bulk rules (bulk_item_pickup page 404s, 311 articles are JS-only); a 44th Ward page says the City no longer offers bulk pickup while the sanitation code page says to arrange bulk pickup with the ward superintendent. Need a fetchable official source before publishing."
+      "note": "2026-11-05: published as /chicago/mattress/. DSS bulk via ward superintendent/311 before set-out; 4 units or fewer; bulk included in $9.50 garbage fee; no mattress-specific bagging rule found on official pages.",
+      "published_url": "/chicago/mattress/"
     },
     {
       "n": 32,
@@ -633,9 +634,10 @@
       "working_title": "How to Get Rid of a Couch in Austin (2026)",
       "primary_keyword": "how to get rid of a couch austin",
       "start_with_agency": "Austin Resource Recovery on-demand bulk page / Recycle and Reuse Center (no furniture) / Austin Reuse Directory",
-      "status": "queued",
+      "status": "published",
       "priority": "high",
-      "note": "2026-11-02: overlaps heavily with /austin/bulk-collection/ (furniture accepted, no reuse option, Reuse Directory). Publish only with distinct value, e.g. verified donation pickups from the Austin Reuse Directory."
+      "note": "2026-11-02: overlaps heavily with /austin/bulk-collection/ (furniture accepted, no reuse option, Reuse Directory). Publish only with distinct value, e.g. verified donation pickups from the Austin Reuse Directory.",
+      "published_url": "/austin/couch/"
     },
     {
       "n": 55,
@@ -710,6 +712,44 @@
       "primary_keyword": "how to get rid of a couch nashville",
       "start_with_agency": "Davidson County Sheriff bulk item removal / Metro Convenience Centers (1 free bulk item)",
       "status": "published",
+      "priority": "high"
+    },
+    {
+      "n": 60,
+      "city": "Chicago",
+      "state": "IL",
+      "item": "Couch and Furniture",
+      "slug": "couch",
+      "working_title": "How to Get Rid of a Couch in Chicago (2026)",
+      "primary_keyword": "how to get rid of a couch chicago",
+      "start_with_agency": "Chicago DSS / ward Streets and Sanitation / CHI 311",
+      "status": "queued",
+      "priority": "high",
+      "note": "Same bulk process as mattress; high-intent partner-city keyword."
+    },
+    {
+      "n": 61,
+      "city": "Austin",
+      "state": "TX",
+      "item": "Mattress",
+      "slug": "mattress",
+      "working_title": "How to Get Rid of a Mattress in Austin (2026)",
+      "primary_keyword": "how to get rid of a mattress austin",
+      "start_with_agency": "Austin Resource Recovery on-demand bulk / What Do I Do With tool (confirm mattress acceptance; not on published accepted list as of Nov 5, 2026)",
+      "status": "queued",
+      "priority": "high",
+      "note": "Nov 5, 2026: ARR accepted bulk list names furniture but not mattresses; RRC refuses mattresses. Verify via What Do I Do With / 3-1-1 before writing."
+    },
+    {
+      "n": 62,
+      "city": "Phoenix",
+      "state": "AZ",
+      "item": "Couch and Furniture",
+      "slug": "couch",
+      "working_title": "How to Get Rid of a Couch in Phoenix (2026)",
+      "primary_keyword": "how to get rid of a couch phoenix",
+      "start_with_agency": "Phoenix Public Works bulk trash / City Code 27-22 (note mattress/furniture conflict)",
+      "status": "queued",
       "priority": "high"
     }
   ],
@@ -929,6 +969,20 @@
       "item": "Couch and Furniture",
       "url_path": "/nashville/couch/",
       "published": "2026-11-04"
+    },
+    {
+      "city": "Austin",
+      "state": "TX",
+      "item": "Couch and Furniture",
+      "url_path": "/austin/couch/",
+      "published": "2026-11-05"
+    },
+    {
+      "city": "Chicago",
+      "state": "IL",
+      "item": "Mattress",
+      "url_path": "/chicago/mattress/",
+      "published": "2026-11-05"
     }
   ]
 }
