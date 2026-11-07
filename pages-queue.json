@@ -101,8 +101,9 @@
       "working_title": "Indianapolis Yard Waste and Leaf Collection Rules (2026)",
       "primary_keyword": "indianapolis yard waste pickup",
       "start_with_agency": "Indy DPW leaf collection page / Trash 101 (GreenCycle)",
-      "status": "queued",
-      "priority": "high"
+      "status": "published",
+      "priority": "high",
+      "published_url": "/indianapolis/yard-waste/"
     },
     {
       "n": 40,
@@ -723,9 +724,10 @@
       "working_title": "How to Get Rid of a Couch in Chicago (2026)",
       "primary_keyword": "how to get rid of a couch chicago",
       "start_with_agency": "Chicago DSS / ward Streets and Sanitation / CHI 311",
-      "status": "queued",
+      "status": "published",
       "priority": "high",
-      "note": "Same bulk process as mattress; high-intent partner-city keyword."
+      "note": "Same bulk process as mattress; high-intent partner-city keyword.",
+      "published_url": "/chicago/couch/"
     },
     {
       "n": 61,
@@ -983,6 +985,20 @@
       "item": "Mattress",
       "url_path": "/chicago/mattress/",
       "published": "2026-11-05"
+    },
+    {
+      "city": "Indianapolis",
+      "state": "IN",
+      "item": "Yard Waste and Leaves",
+      "url_path": "/indianapolis/yard-waste/",
+      "published": "2026-11-06"
+    },
+    {
+      "city": "Chicago",
+      "state": "IL",
+      "item": "Couch and Furniture",
+      "url_path": "/chicago/couch/",
+      "published": "2026-11-06"
     }
   ]
 }
