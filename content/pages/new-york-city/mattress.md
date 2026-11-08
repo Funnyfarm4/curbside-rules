@@ -95,5 +95,7 @@ DSNY's free bulk collection is for residential buildings. NYC311 points non-resi
 
 ## Other guides
 
+- [Free furniture donation pickup in NYC](/new-york-city/furniture-donation/)
+- [How to get rid of a couch in NYC](/new-york-city/couch/)
 - [How to get rid of a mattress in Boston](/boston/mattress/)
 - [How to get rid of a mattress in Indianapolis](/indianapolis/mattress/)

@@ -90,6 +90,8 @@ Official Chicago pages don't publish a mattress-bagging rule the way some other 
 
 ## Other guides
 
+- [How to get bulk items picked up in Chicago](/chicago/bulk-pickup/)
+- [How to get rid of a couch in Chicago](/chicago/couch/)
 - [Do you need a dumpster permit in Chicago?](/chicago/dumpster-permit/)
 - [Where to drop off electronics, paint and hazardous waste in Chicago](/chicago/hazardous-waste-electronics/)
 - [How to get rid of a mattress in NYC](/new-york-city/mattress/)

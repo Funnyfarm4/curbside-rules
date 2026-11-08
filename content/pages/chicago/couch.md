@@ -92,6 +92,7 @@ Official Chicago pages don't publish a separate wrapping rule for couches the wa
 
 ## Other guides
 
+- [How to get bulk items picked up in Chicago](/chicago/bulk-pickup/)
 - [How to get rid of a mattress in Chicago](/chicago/mattress/)
 - [Do you need a dumpster permit in Chicago?](/chicago/dumpster-permit/)
 - [Where to drop off electronics, paint and hazardous waste in Chicago](/chicago/hazardous-waste-electronics/)

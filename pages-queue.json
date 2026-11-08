@@ -126,7 +126,8 @@
       "working_title": "How to Get Bulk Items Picked Up in Chicago Through 311 (2026)",
       "primary_keyword": "chicago 311 bulk pickup",
       "start_with_agency": "City of Chicago Department of Streets and Sanitation / CHI 311",
-      "status": "queued"
+      "status": "published",
+      "published_url": "/chicago/bulk-pickup/"
     },
     {
       "n": 3,
@@ -519,9 +520,10 @@
       "working_title": "Free Furniture Donation Pickup in NYC (2026)",
       "primary_keyword": "furniture donation pickup nyc",
       "start_with_agency": "DSNY DonateNYC directory (official list only)",
-      "status": "queued",
+      "status": "published",
       "priority": "high",
-      "topic": "donation-pickup"
+      "topic": "donation-pickup",
+      "published_url": "/new-york-city/furniture-donation/"
     },
     {
       "n": 46,
@@ -753,6 +755,70 @@
       "start_with_agency": "Phoenix Public Works bulk trash / City Code 27-22 (note mattress/furniture conflict)",
       "status": "queued",
       "priority": "high"
+    },
+    {
+      "n": 63,
+      "city": "Chicago",
+      "state": "IL",
+      "item": "Furniture Donation Pickup",
+      "slug": "furniture-donation",
+      "working_title": "Free Furniture Donation Pickup in Chicago (2026)",
+      "primary_keyword": "furniture donation pickup chicago",
+      "start_with_agency": "City of Chicago donation / reuse listings and official charity pickup pages",
+      "status": "queued",
+      "priority": "high",
+      "topic": "donation-pickup"
+    },
+    {
+      "n": 64,
+      "city": "New York City",
+      "state": "NY",
+      "item": "Electronics, Paint and Hazardous Waste",
+      "slug": "hazardous-waste-electronics",
+      "working_title": "Where to Drop Off Electronics, Paint and Hazardous Waste in NYC (2026)",
+      "primary_keyword": "nyc household hazardous waste drop off",
+      "start_with_agency": "DSNY SAFE disposal events / e-cycleNYC / NYS DEC",
+      "status": "queued",
+      "priority": "high",
+      "topic": "hazardous-waste"
+    },
+    {
+      "n": 65,
+      "city": "Boston",
+      "state": "MA",
+      "item": "Furniture Donation Pickup",
+      "slug": "furniture-donation",
+      "working_title": "Free Furniture Donation Pickup in Boston (2026)",
+      "primary_keyword": "furniture donation pickup boston",
+      "start_with_agency": "City of Boston donation guidance and official charity pickup pages",
+      "status": "queued",
+      "priority": "high",
+      "topic": "donation-pickup"
+    },
+    {
+      "n": 66,
+      "city": "Phoenix",
+      "state": "AZ",
+      "item": "Furniture Donation Pickup",
+      "slug": "furniture-donation",
+      "working_title": "Free Furniture Donation Pickup in Phoenix (2026)",
+      "primary_keyword": "furniture donation pickup phoenix",
+      "start_with_agency": "City of Phoenix donation / reuse listings and official charity pickup pages",
+      "status": "queued",
+      "priority": "high",
+      "topic": "donation-pickup"
+    },
+    {
+      "n": 67,
+      "city": "Nashville",
+      "state": "TN",
+      "item": "Furniture Donation Pickup",
+      "slug": "furniture-donation",
+      "working_title": "Free Furniture Donation Pickup in Nashville (2026)",
+      "primary_keyword": "furniture donation pickup nashville",
+      "start_with_agency": "Metro Nashville donation guidance and official charity pickup pages",
+      "status": "queued",
+      "topic": "donation-pickup"
     }
   ],
   "published": [
@@ -999,6 +1065,21 @@
       "item": "Couch and Furniture",
       "url_path": "/chicago/couch/",
       "published": "2026-11-06"
+    },
+    {
+      "city": "New York City",
+      "state": "NY",
+      "item": "Furniture Donation Pickup",
+      "url_path": "/new-york-city/furniture-donation/",
+      "published": "2026-11-07",
+      "topic": "donation-pickup"
+    },
+    {
+      "city": "Chicago",
+      "state": "IL",
+      "item": "Bulk Item Pickup (311)",
+      "url_path": "/chicago/bulk-pickup/",
+      "published": "2026-11-07"
     }
   ]
 }
