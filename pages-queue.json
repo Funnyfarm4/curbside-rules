@@ -740,9 +740,10 @@
       "working_title": "How to Get Rid of a Mattress in Austin (2026)",
       "primary_keyword": "how to get rid of a mattress austin",
       "start_with_agency": "Austin Resource Recovery on-demand bulk / What Do I Do With tool (confirm mattress acceptance; not on published accepted list as of Nov 5, 2026)",
-      "status": "queued",
+      "status": "published",
       "priority": "high",
-      "note": "Nov 5, 2026: ARR accepted bulk list names furniture but not mattresses; RRC refuses mattresses. Verify via What Do I Do With / 3-1-1 before writing."
+      "note": "2026-11-08: published; official bulk list does not name mattresses, page says so and sends readers to the scheduler.",
+      "published_url": "/austin/mattress/"
     },
     {
       "n": 62,
@@ -778,9 +779,10 @@
       "working_title": "Where to Drop Off Electronics, Paint and Hazardous Waste in NYC (2026)",
       "primary_keyword": "nyc household hazardous waste drop off",
       "start_with_agency": "DSNY SAFE disposal events / e-cycleNYC / NYS DEC",
-      "status": "queued",
+      "status": "published",
       "priority": "high",
-      "topic": "hazardous-waste"
+      "topic": "hazardous-waste",
+      "published_url": "/new-york-city/hazardous-waste-electronics/"
     },
     {
       "n": 65,
@@ -1080,6 +1082,21 @@
       "item": "Bulk Item Pickup (311)",
       "url_path": "/chicago/bulk-pickup/",
       "published": "2026-11-07"
+    },
+    {
+      "city": "Austin",
+      "state": "TX",
+      "item": "Mattress",
+      "url_path": "/austin/mattress/",
+      "published": "2026-11-08"
+    },
+    {
+      "city": "New York City",
+      "state": "NY",
+      "item": "Electronics, Paint and Hazardous Waste",
+      "url_path": "/new-york-city/hazardous-waste-electronics/",
+      "published": "2026-11-08",
+      "topic": "hazardous-waste"
     }
   ]
 }
