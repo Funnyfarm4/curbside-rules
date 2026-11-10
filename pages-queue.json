@@ -702,7 +702,7 @@
       "working_title": "Nashville Household Hazardous Waste and Electronics Drop-Off (2026)",
       "primary_keyword": "nashville household hazardous waste",
       "start_with_agency": "Nashville Waste Services HHW and e-waste pages (East and Ezell Pike centers)",
-      "status": "queued",
+      "status": "published",
       "topic": "hazardous-waste"
     },
     {
@@ -821,6 +821,41 @@
       "start_with_agency": "Metro Nashville donation guidance and official charity pickup pages",
       "status": "queued",
       "topic": "donation-pickup"
+    },
+    {
+      "n": 68,
+      "city": "New York City",
+      "state": "NY",
+      "item": "Refrigerator and Appliances",
+      "slug": "refrigerator",
+      "working_title": "How to Get Rid of a Refrigerator in New York City (2026)",
+      "primary_keyword": "how to get rid of a refrigerator nyc",
+      "start_with_agency": "DSNY CFC Removal / NYC311",
+      "status": "published",
+      "priority": "high"
+    },
+    {
+      "n": 69,
+      "city": "Chicago",
+      "state": "IL",
+      "item": "Refrigerator and Appliances",
+      "slug": "refrigerator",
+      "working_title": "How to Get Rid of a Refrigerator in Chicago (2026)",
+      "primary_keyword": "chicago refrigerator disposal",
+      "start_with_agency": "Chicago Streets and Sanitation / CHI311 (freon appliance rules)",
+      "status": "queued",
+      "priority": "high"
+    },
+    {
+      "n": 70,
+      "city": "Indianapolis",
+      "state": "IN",
+      "item": "Refrigerator and Appliances",
+      "slug": "refrigerator",
+      "working_title": "How to Get Rid of a Refrigerator in Indianapolis (2026)",
+      "primary_keyword": "indianapolis refrigerator disposal",
+      "start_with_agency": "Indy DPW (check overlap with appliance-tire-disposal page first)",
+      "status": "queued"
     }
   ],
   "published": [
@@ -1097,6 +1132,21 @@
       "url_path": "/new-york-city/hazardous-waste-electronics/",
       "published": "2026-11-08",
       "topic": "hazardous-waste"
+    },
+    {
+      "city": "Nashville",
+      "state": "TN",
+      "item": "Electronics, Paint and Hazardous Waste",
+      "url_path": "/nashville/hazardous-waste-electronics/",
+      "published": "2026-11-09",
+      "topic": "hazardous-waste"
+    },
+    {
+      "city": "New York City",
+      "state": "NY",
+      "item": "Refrigerator and Appliances",
+      "url_path": "/new-york-city/refrigerator/",
+      "published": "2026-11-09"
     }
   ]
 }
