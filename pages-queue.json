@@ -793,7 +793,7 @@
       "working_title": "Free Furniture Donation Pickup in Boston (2026)",
       "primary_keyword": "furniture donation pickup boston",
       "start_with_agency": "City of Boston donation guidance and official charity pickup pages",
-      "status": "queued",
+      "status": "published",
       "priority": "high",
       "topic": "donation-pickup"
     },
@@ -843,7 +843,7 @@
       "working_title": "How to Get Rid of a Refrigerator in Chicago (2026)",
       "primary_keyword": "chicago refrigerator disposal",
       "start_with_agency": "Chicago Streets and Sanitation / CHI311 (freon appliance rules)",
-      "status": "queued",
+      "status": "published",
       "priority": "high"
     },
     {
@@ -1147,6 +1147,21 @@
       "item": "Refrigerator and Appliances",
       "url_path": "/new-york-city/refrigerator/",
       "published": "2026-11-09"
+    },
+    {
+      "city": "Chicago",
+      "state": "IL",
+      "item": "Refrigerator and Appliances",
+      "url_path": "/chicago/refrigerator/",
+      "published": "2026-11-10"
+    },
+    {
+      "city": "Boston",
+      "state": "MA",
+      "item": "Furniture Donation Pickup",
+      "url_path": "/boston/furniture-donation/",
+      "published": "2026-11-10",
+      "topic": "donation-pickup"
     }
   ]
 }
