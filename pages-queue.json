@@ -754,7 +754,7 @@
       "working_title": "How to Get Rid of a Couch in Phoenix (2026)",
       "primary_keyword": "how to get rid of a couch phoenix",
       "start_with_agency": "Phoenix Public Works bulk trash / City Code 27-22 (note mattress/furniture conflict)",
-      "status": "queued",
+      "status": "published",
       "priority": "high"
     },
     {
@@ -766,7 +766,7 @@
       "working_title": "Free Furniture Donation Pickup in Chicago (2026)",
       "primary_keyword": "furniture donation pickup chicago",
       "start_with_agency": "City of Chicago donation / reuse listings and official charity pickup pages",
-      "status": "queued",
+      "status": "published",
       "priority": "high",
       "topic": "donation-pickup"
     },
@@ -856,6 +856,18 @@
       "primary_keyword": "indianapolis refrigerator disposal",
       "start_with_agency": "Indy DPW (check overlap with appliance-tire-disposal page first)",
       "status": "queued"
+    },
+    {
+      "n": 71,
+      "city": "Austin",
+      "state": "TX",
+      "item": "Furniture Donation Pickup",
+      "slug": "furniture-donation",
+      "working_title": "Free Furniture Donation Pickup in Austin (2026)",
+      "primary_keyword": "furniture donation pickup austin",
+      "start_with_agency": "Austin Resource Recovery reuse guidance and official charity pickup pages",
+      "status": "queued",
+      "topic": "donation-pickup"
     }
   ],
   "published": [
@@ -1162,6 +1174,21 @@
       "url_path": "/boston/furniture-donation/",
       "published": "2026-11-10",
       "topic": "donation-pickup"
+    },
+    {
+      "city": "Chicago",
+      "state": "IL",
+      "item": "Furniture Donation Pickup",
+      "url_path": "/chicago/furniture-donation/",
+      "published": "2026-11-11",
+      "topic": "donation-pickup"
+    },
+    {
+      "city": "Phoenix",
+      "state": "AZ",
+      "item": "Couch and Furniture",
+      "url_path": "/phoenix/couch/",
+      "published": "2026-11-11"
     }
   ]
 }
