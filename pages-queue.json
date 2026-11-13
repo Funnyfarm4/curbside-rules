@@ -806,7 +806,7 @@
       "working_title": "Free Furniture Donation Pickup in Phoenix (2026)",
       "primary_keyword": "furniture donation pickup phoenix",
       "start_with_agency": "City of Phoenix donation / reuse listings and official charity pickup pages",
-      "status": "queued",
+      "status": "published",
       "priority": "high",
       "topic": "donation-pickup"
     },
@@ -855,7 +855,8 @@
       "working_title": "How to Get Rid of a Refrigerator in Indianapolis (2026)",
       "primary_keyword": "indianapolis refrigerator disposal",
       "start_with_agency": "Indy DPW (check overlap with appliance-tire-disposal page first)",
-      "status": "queued"
+      "status": "queued",
+      "note": "2026-11-12: deferred. The existing /indianapolis/appliance-tire-disposal/ page already covers the MAC Freon pickup; a separate page needs something new (AES Indiana Ditch Your Fridge rebate), but aesindiana.com returned 403 to every fetch, so it couldn't be verified."
     },
     {
       "n": 71,
@@ -868,6 +869,42 @@
       "start_with_agency": "Austin Resource Recovery reuse guidance and official charity pickup pages",
       "status": "queued",
       "topic": "donation-pickup"
+    },
+    {
+      "n": 72,
+      "city": "New York City",
+      "state": "NY",
+      "item": "Construction Debris",
+      "slug": "construction-debris",
+      "working_title": "How to Get Rid of Construction Debris in NYC (2026)",
+      "primary_keyword": "nyc construction debris disposal",
+      "start_with_agency": "DSNY (construction/renovation waste rules)",
+      "status": "queued",
+      "priority": "high"
+    },
+    {
+      "n": 73,
+      "city": "Phoenix",
+      "state": "AZ",
+      "item": "Construction Debris",
+      "slug": "construction-debris",
+      "working_title": "How to Get Rid of Construction Debris in Phoenix (2026)",
+      "primary_keyword": "phoenix construction debris disposal",
+      "start_with_agency": "Phoenix Public Works bulk trash limits + transfer station building materials drop-off",
+      "status": "queued",
+      "priority": "high"
+    },
+    {
+      "n": 74,
+      "city": "Austin",
+      "state": "TX",
+      "item": "Construction Debris",
+      "slug": "construction-debris",
+      "working_title": "How to Get Rid of Construction Debris in Austin (2026)",
+      "primary_keyword": "austin construction debris disposal",
+      "start_with_agency": "Austin Resource Recovery",
+      "status": "queued",
+      "priority": "high"
     }
   ],
   "published": [
@@ -1189,6 +1226,21 @@
       "item": "Couch and Furniture",
       "url_path": "/phoenix/couch/",
       "published": "2026-11-11"
+    },
+    {
+      "city": "Chicago",
+      "state": "IL",
+      "item": "Construction Debris",
+      "url_path": "/chicago/construction-debris/",
+      "published": "2026-11-12"
+    },
+    {
+      "city": "Phoenix",
+      "state": "AZ",
+      "item": "Furniture Donation Pickup",
+      "url_path": "/phoenix/furniture-donation/",
+      "published": "2026-11-12",
+      "topic": "donation-pickup"
     }
   ]
 }
