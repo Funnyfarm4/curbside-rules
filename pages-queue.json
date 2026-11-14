@@ -879,8 +879,9 @@
       "working_title": "How to Get Rid of Construction Debris in NYC (2026)",
       "primary_keyword": "nyc construction debris disposal",
       "start_with_agency": "DSNY (construction/renovation waste rules)",
-      "status": "queued",
-      "priority": "high"
+      "status": "published",
+      "priority": "high",
+      "published_url": "/new-york-city/construction-debris/"
     },
     {
       "n": 73,
@@ -891,8 +892,9 @@
       "working_title": "How to Get Rid of Construction Debris in Phoenix (2026)",
       "primary_keyword": "phoenix construction debris disposal",
       "start_with_agency": "Phoenix Public Works bulk trash limits + transfer station building materials drop-off",
-      "status": "queued",
-      "priority": "high"
+      "status": "published",
+      "priority": "high",
+      "published_url": "/phoenix/construction-debris/"
     },
     {
       "n": 74,
@@ -905,6 +907,19 @@
       "start_with_agency": "Austin Resource Recovery",
       "status": "queued",
       "priority": "high"
+    },
+    {
+      "n": 75,
+      "city": "Phoenix",
+      "state": "AZ",
+      "item": "Hot Tub and Spa",
+      "slug": "hot-tub",
+      "working_title": "How to Get Rid of a Hot Tub in Phoenix (2026)",
+      "primary_keyword": "phoenix hot tub removal",
+      "start_with_agency": "Phoenix transfer stations (spas must be cut into fourths or $50 penalty; registration/title required)",
+      "status": "queued",
+      "priority": "high",
+      "note": "2026-11-13: idea from transfer station page research."
     }
   ],
   "published": [
@@ -1241,6 +1256,20 @@
       "url_path": "/phoenix/furniture-donation/",
       "published": "2026-11-12",
       "topic": "donation-pickup"
+    },
+    {
+      "city": "New York City",
+      "state": "NY",
+      "item": "Construction Debris",
+      "url_path": "/new-york-city/construction-debris/",
+      "published": "2026-11-13"
+    },
+    {
+      "city": "Phoenix",
+      "state": "AZ",
+      "item": "Construction Debris",
+      "url_path": "/phoenix/construction-debris/",
+      "published": "2026-11-13"
     }
   ]
 }
