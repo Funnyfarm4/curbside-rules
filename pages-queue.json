@@ -905,8 +905,9 @@
       "working_title": "How to Get Rid of Construction Debris in Austin (2026)",
       "primary_keyword": "austin construction debris disposal",
       "start_with_agency": "Austin Resource Recovery",
-      "status": "queued",
-      "priority": "high"
+      "status": "published",
+      "priority": "high",
+      "note": "2026-11-14: published. Sources: Austin Resource Recovery bulk + Recycle and Reuse Center, Texas Disposal Systems gate rates/contact/concrete FAQ, Austin Habitat ReStore. WM Austin Community landfill left out (no public self-haul info on its page); TDS Bee Cave left out (status unclear)."
     },
     {
       "n": 75,
@@ -917,9 +918,34 @@
       "working_title": "How to Get Rid of a Hot Tub in Phoenix (2026)",
       "primary_keyword": "phoenix hot tub removal",
       "start_with_agency": "Phoenix transfer stations (spas must be cut into fourths or $50 penalty; registration/title required)",
+      "status": "published",
+      "priority": "high",
+      "note": "2026-11-14: published from phoenix.gov transfer station, bulk trash and dumpster rental pages. Bulk page doesn't mention spas either way."
+    },
+    {
+      "n": 76,
+      "city": "Nashville",
+      "state": "TN",
+      "item": "Construction Debris",
+      "slug": "construction-debris",
+      "working_title": "How to Get Rid of Construction Debris in Nashville (2026)",
+      "primary_keyword": "nashville construction debris disposal",
+      "start_with_agency": "Metro Nashville Waste Services (convenience centers) / Bin There Dump That partner city",
       "status": "queued",
       "priority": "high",
-      "note": "2026-11-13: idea from transfer station page research."
+      "note": "2026-11-14: idea; Bin There Dump That partner city."
+    },
+    {
+      "n": 77,
+      "city": "Austin",
+      "state": "TX",
+      "item": "Hot Tub and Spa",
+      "slug": "hot-tub",
+      "working_title": "How to Get Rid of a Hot Tub in Austin (2026)",
+      "primary_keyword": "austin hot tub removal",
+      "start_with_agency": "Austin Resource Recovery What Do I Do With tool / TDS landfill gate rates",
+      "status": "queued",
+      "note": "2026-11-14: idea; check whether ARR bulk accepts spas before writing."
     }
   ],
   "published": [
@@ -1270,6 +1296,20 @@
       "item": "Construction Debris",
       "url_path": "/phoenix/construction-debris/",
       "published": "2026-11-13"
+    },
+    {
+      "city": "Austin",
+      "state": "TX",
+      "item": "Construction Debris",
+      "url_path": "/austin/construction-debris/",
+      "published": "2026-11-14"
+    },
+    {
+      "city": "Phoenix",
+      "state": "AZ",
+      "item": "Hot Tub and Spa",
+      "url_path": "/phoenix/hot-tub/",
+      "published": "2026-11-14"
     }
   ]
 }
