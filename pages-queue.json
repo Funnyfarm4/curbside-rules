@@ -819,8 +819,9 @@
       "working_title": "Free Furniture Donation Pickup in Nashville (2026)",
       "primary_keyword": "furniture donation pickup nashville",
       "start_with_agency": "Metro Nashville donation guidance and official charity pickup pages",
-      "status": "queued",
-      "topic": "donation-pickup"
+      "status": "published",
+      "topic": "donation-pickup",
+      "published": "2026-11-15"
     },
     {
       "n": 68,
@@ -931,9 +932,10 @@
       "working_title": "How to Get Rid of Construction Debris in Nashville (2026)",
       "primary_keyword": "nashville construction debris disposal",
       "start_with_agency": "Metro Nashville Waste Services (convenience centers) / Bin There Dump That partner city",
-      "status": "queued",
+      "status": "published",
       "priority": "high",
-      "note": "2026-11-14: idea; Bin There Dump That partner city."
+      "note": "2026-11-14: idea; Bin There Dump That partner city.",
+      "published": "2026-11-15"
     },
     {
       "n": 77,
@@ -946,6 +948,19 @@
       "start_with_agency": "Austin Resource Recovery What Do I Do With tool / TDS landfill gate rates",
       "status": "queued",
       "note": "2026-11-14: idea; check whether ARR bulk accepts spas before writing."
+    },
+    {
+      "n": 78,
+      "city": "Nashville",
+      "state": "TN",
+      "item": "Hot Tub and Spa",
+      "slug": "hot-tub",
+      "working_title": "How to Get Rid of a Hot Tub in Nashville (2026)",
+      "primary_keyword": "nashville hot tub removal",
+      "start_with_agency": "Davidson County Sheriff Bulk Item Removal (takes hot tubs in two pieces) / Metro convenience centers",
+      "status": "queued",
+      "priority": "high",
+      "note": "2026-11-15: idea; sheriff.nashville.gov lists 'Hot tub must be in two pieces for pick up'."
     }
   ],
   "published": [
@@ -1310,6 +1325,21 @@
       "item": "Hot Tub and Spa",
       "url_path": "/phoenix/hot-tub/",
       "published": "2026-11-14"
+    },
+    {
+      "city": "Nashville",
+      "state": "TN",
+      "item": "Construction Debris",
+      "url_path": "/nashville/construction-debris/",
+      "published": "2026-11-15"
+    },
+    {
+      "city": "Nashville",
+      "state": "TN",
+      "item": "Furniture Donation Pickup",
+      "url_path": "/nashville/furniture-donation/",
+      "published": "2026-11-15",
+      "topic": "donation-pickup"
     }
   ]
 }
