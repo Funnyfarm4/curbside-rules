@@ -947,7 +947,7 @@
       "primary_keyword": "austin hot tub removal",
       "start_with_agency": "Austin Resource Recovery What Do I Do With tool / TDS landfill gate rates",
       "status": "queued",
-      "note": "2026-11-14: idea; check whether ARR bulk accepts spas before writing."
+      "note": "2026-11-14: idea; check whether ARR bulk accepts spas before writing. 2026-11-16: deferred. ARR's on-demand bulk page doesn't list spas either way and its What Do I Do With tool (ReCollect widget) can't be fetched; TDS gate-rates page returns 403. Need an official statement on spas before writing."
     },
     {
       "n": 78,
@@ -958,9 +958,22 @@
       "working_title": "How to Get Rid of a Hot Tub in Nashville (2026)",
       "primary_keyword": "nashville hot tub removal",
       "start_with_agency": "Davidson County Sheriff Bulk Item Removal (takes hot tubs in two pieces) / Metro convenience centers",
-      "status": "queued",
+      "status": "published",
       "priority": "high",
-      "note": "2026-11-15: idea; sheriff.nashville.gov lists 'Hot tub must be in two pieces for pick up'."
+      "note": "2026-11-15: idea; sheriff.nashville.gov lists 'Hot tub must be in two pieces for pick up'. 2026-11-16: published."
+    },
+    {
+      "n": 79,
+      "city": "Nashville",
+      "state": "TN",
+      "item": "Refrigerator and Appliances",
+      "slug": "refrigerator",
+      "working_title": "How to Get Rid of a Refrigerator in Nashville (2026)",
+      "primary_keyword": "nashville refrigerator disposal",
+      "start_with_agency": "Davidson County Sheriff Bulk Item Removal / Metro convenience centers (free scrap metal item)",
+      "status": "published",
+      "priority": "high",
+      "note": "2026-11-16: added and published same night."
     }
   ],
   "published": [
@@ -1340,6 +1353,20 @@
       "url_path": "/nashville/furniture-donation/",
       "published": "2026-11-15",
       "topic": "donation-pickup"
+    },
+    {
+      "city": "Nashville",
+      "state": "TN",
+      "item": "Hot Tub and Spa",
+      "url_path": "/nashville/hot-tub/",
+      "published": "2026-11-16"
+    },
+    {
+      "city": "Nashville",
+      "state": "TN",
+      "item": "Refrigerator and Appliances",
+      "url_path": "/nashville/refrigerator/",
+      "published": "2026-11-16"
     }
   ]
 }
