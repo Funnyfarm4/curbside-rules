@@ -868,7 +868,7 @@
       "working_title": "Free Furniture Donation Pickup in Austin (2026)",
       "primary_keyword": "furniture donation pickup austin",
       "start_with_agency": "Austin Resource Recovery reuse guidance and official charity pickup pages",
-      "status": "queued",
+      "status": "published",
       "topic": "donation-pickup"
     },
     {
@@ -974,6 +974,41 @@
       "status": "published",
       "priority": "high",
       "note": "2026-11-16: added and published same night."
+    },
+    {
+      "n": 80,
+      "city": "Phoenix",
+      "state": "AZ",
+      "item": "Refrigerator and Appliances",
+      "slug": "refrigerator",
+      "working_title": "How to Get Rid of a Refrigerator in Phoenix (2026)",
+      "primary_keyword": "phoenix refrigerator disposal",
+      "start_with_agency": "Phoenix Public Works Appliance Recycling",
+      "status": "published"
+    },
+    {
+      "n": 81,
+      "city": "Austin",
+      "state": "TX",
+      "item": "Refrigerator and Appliances",
+      "slug": "refrigerator",
+      "working_title": "How to Get Rid of a Refrigerator in Austin (2026)",
+      "primary_keyword": "austin refrigerator disposal",
+      "start_with_agency": "Austin Resource Recovery on-demand bulk (appliances, doors removed) / Recycle and Reuse Center accepted appliances",
+      "status": "queued",
+      "note": "2026-11-17: idea. ARR bulk accepts appliances with doors removed and the Recycle and Reuse Center lists accepted appliances; check Austin Energy for any fridge recycling program."
+    },
+    {
+      "n": 82,
+      "city": "Chicago",
+      "state": "IL",
+      "item": "Hot Tub and Spa",
+      "slug": "hot-tub",
+      "working_title": "How to Get Rid of a Hot Tub in Chicago (2026)",
+      "primary_keyword": "chicago hot tub removal",
+      "start_with_agency": "Chicago Department of Streets and Sanitation",
+      "status": "queued",
+      "note": "2026-11-17: idea; verify whether DSS bulk takes spas before writing."
     }
   ],
   "published": [
@@ -1367,6 +1402,21 @@
       "item": "Refrigerator and Appliances",
       "url_path": "/nashville/refrigerator/",
       "published": "2026-11-16"
+    },
+    {
+      "city": "Austin",
+      "state": "TX",
+      "item": "Furniture Donation Pickup",
+      "url_path": "/austin/furniture-donation/",
+      "published": "2026-11-17",
+      "topic": "donation-pickup"
+    },
+    {
+      "city": "Phoenix",
+      "state": "AZ",
+      "item": "Refrigerator and Appliances",
+      "url_path": "/phoenix/refrigerator/",
+      "published": "2026-11-17"
     }
   ]
 }
