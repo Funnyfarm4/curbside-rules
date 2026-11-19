@@ -654,7 +654,7 @@
       "status": "queued",
       "priority": "high",
       "topic": "dumpster-permit",
-      "note": "2026-11-02: deferred. austintexas.gov ROW pages cover moving/storage containers (Parking permit, case by case) and say dumpster permits need bond/insurance/ROW contractor license, but no fetchable official page states dumpster placement rules or which permit/fee applies. Find the dumpster-specific rule (Parking Considerations PDF or ROW contractor guide) before publishing."
+      "note": "2026-11-02: deferred. austintexas.gov ROW pages cover moving/storage containers (Parking permit, case by case) and say dumpster permits need bond/insurance/ROW contractor license, but no fetchable official page states dumpster placement rules or which permit/fee applies. Find the dumpster-specific rule (Parking Considerations PDF or ROW contractor guide) before publishing. 2026-11-18: still deferred. Re-checked ROW permits, ROW contractors and ROW management pages: only says dumpster permits need insurance + $10K bond (management page adds ROW contractor license); still no fetchable official page with dumpster placement rules, permit type or fee."
     },
     {
       "n": 56,
@@ -995,8 +995,8 @@
       "working_title": "How to Get Rid of a Refrigerator in Austin (2026)",
       "primary_keyword": "austin refrigerator disposal",
       "start_with_agency": "Austin Resource Recovery on-demand bulk (appliances, doors removed) / Recycle and Reuse Center accepted appliances",
-      "status": "queued",
-      "note": "2026-11-17: idea. ARR bulk accepts appliances with doors removed and the Recycle and Reuse Center lists accepted appliances; check Austin Energy for any fridge recycling program."
+      "status": "published",
+      "note": "2026-11-17: idea. ARR bulk accepts appliances with doors removed and the Recycle and Reuse Center lists accepted appliances; check Austin Energy for any fridge recycling program. 2026-11-18: published. Austin Energy's appliance rebate page lists no fridge recycling offer; City What Do I Do With tool (ReCollect data) lists Recycle and Reuse Center for refrigerators."
     },
     {
       "n": 82,
@@ -1009,6 +1009,43 @@
       "start_with_agency": "Chicago Department of Streets and Sanitation",
       "status": "queued",
       "note": "2026-11-17: idea; verify whether DSS bulk takes spas before writing."
+    },
+    {
+      "n": 83,
+      "city": "San Diego",
+      "state": "CA",
+      "item": "Electronics, Paint and Hazardous Waste",
+      "slug": "hazardous-waste-electronics",
+      "working_title": "Where to Drop Off Electronics, Paint and Hazardous Waste in San Diego (2026)",
+      "primary_keyword": "san diego hazardous waste disposal",
+      "start_with_agency": "City of San Diego ESD HHW Transfer Facility / Miramar Recycling Center",
+      "status": "published",
+      "topic": "hazardous-waste"
+    },
+    {
+      "n": 84,
+      "city": "San Diego",
+      "state": "CA",
+      "item": "Refrigerator and Appliances",
+      "slug": "refrigerator",
+      "working_title": "How to Get Rid of a Refrigerator in San Diego (2026)",
+      "primary_keyword": "san diego refrigerator disposal",
+      "start_with_agency": "Miramar Recycling Center appliance fees ($25 fridges) / SDG&E",
+      "status": "queued",
+      "note": "2026-11-18: idea. Miramar Recycling Center lists refrigerators at $25 each (freon); City bulky pickup is paused. Check SDG&E for any fridge recycling program."
+    },
+    {
+      "n": 85,
+      "city": "San Diego",
+      "state": "CA",
+      "item": "Dumpster Permit",
+      "slug": "dumpster-permit",
+      "working_title": "Do You Need a Dumpster Permit in San Diego? (2026)",
+      "primary_keyword": "san diego dumpster permit",
+      "start_with_agency": "City of San Diego Development Services / Transportation right-of-way permits",
+      "status": "queued",
+      "topic": "dumpster-permit",
+      "note": "2026-11-18: idea for the related-topic slot."
     }
   ],
   "published": [
@@ -1417,6 +1454,20 @@
       "item": "Refrigerator and Appliances",
       "url_path": "/phoenix/refrigerator/",
       "published": "2026-11-17"
+    },
+    {
+      "city": "Austin",
+      "state": "TX",
+      "item": "Refrigerator and Appliances",
+      "url_path": "/austin/refrigerator/",
+      "published": "2026-11-18"
+    },
+    {
+      "city": "San Diego",
+      "state": "CA",
+      "item": "Electronics, Paint and Hazardous Waste",
+      "url_path": "/san-diego/hazardous-waste-electronics/",
+      "published": "2026-11-18"
     }
   ]
 }
