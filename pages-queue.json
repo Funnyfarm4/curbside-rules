@@ -1031,8 +1031,8 @@
       "working_title": "How to Get Rid of a Refrigerator in San Diego (2026)",
       "primary_keyword": "san diego refrigerator disposal",
       "start_with_agency": "Miramar Recycling Center appliance fees ($25 fridges) / SDG&E",
-      "status": "queued",
-      "note": "2026-11-18: idea. Miramar Recycling Center lists refrigerators at $25 each (freon); City bulky pickup is paused. Check SDG&E for any fridge recycling program."
+      "status": "published",
+      "note": "2026-11-18: idea. Miramar Recycling Center lists refrigerators at $25 each (freon); City bulky pickup is paused. Check SDG&E for any fridge recycling program. 2026-11-19: published. Miramar Recycling Center $25 fridges; Goodwill SD Otay Mesa Outlet takes refrigerators; SD Habitat ReStores closed Oct 2024; sdge.com/recycle returns 404 and SDG&E Rebates page lists no fridge recycling."
     },
     {
       "n": 85,
@@ -1043,9 +1043,46 @@
       "working_title": "Do You Need a Dumpster Permit in San Diego? (2026)",
       "primary_keyword": "san diego dumpster permit",
       "start_with_agency": "City of San Diego Development Services / Transportation right-of-way permits",
-      "status": "queued",
+      "status": "published",
       "topic": "dumpster-permit",
-      "note": "2026-11-18: idea for the related-topic slot."
+      "note": "2026-11-18: idea for the related-topic slot. 2026-11-19: published from DSD IB-718/IB-177 (Traffic Control Permit, $176.57 + $87.68 processing), SDMC 66.0108 franchise rule, C&D ordinance. Conflict noted: IB-718 asks 3 working days' notice, permit page says ~15 business days to process."
+    },
+    {
+      "n": 86,
+      "city": "San Diego",
+      "state": "CA",
+      "item": "Furniture Donation",
+      "slug": "furniture-donation",
+      "working_title": "Free Furniture Donation Pickup in San Diego (2026)",
+      "primary_keyword": "san diego furniture donation pickup",
+      "start_with_agency": "Goodwill SD Donate Furniture / Donation Pickup pages; San Diego Rescue Mission; Father Joe's Villages",
+      "status": "queued",
+      "note": "2026-11-19: idea for the related-topic slot; Habitat ReStores closed (Oct 2024), Goodwill SD takes large furniture at retail stores.",
+      "topic": "furniture-donation"
+    },
+    {
+      "n": 87,
+      "city": "San Diego",
+      "state": "CA",
+      "item": "Construction Debris",
+      "slug": "construction-debris",
+      "working_title": "How to Get Rid of Construction Debris in San Diego (2026)",
+      "primary_keyword": "san diego construction debris disposal",
+      "start_with_agency": "Miramar Landfill C&D fees ($108 Tier 1 City) / C&D Debris Deposit Ordinance / certified C&D facility directory",
+      "status": "queued",
+      "note": "2026-11-19: idea; sources already fetched for the dumpster permit page."
+    },
+    {
+      "n": 88,
+      "city": "San Diego",
+      "state": "CA",
+      "item": "Couch and Furniture",
+      "slug": "couch",
+      "working_title": "How to Get Rid of a Couch in San Diego (2026)",
+      "primary_keyword": "how to get rid of a couch san diego",
+      "start_with_agency": "sandiego.gov general rules (no furniture in bins), Miramar Landfill fees, Goodwill SD furniture",
+      "status": "queued",
+      "note": "2026-11-19: idea; City bulky pickup paused, so high hauling intent."
     }
   ],
   "published": [
@@ -1468,6 +1505,20 @@
       "item": "Electronics, Paint and Hazardous Waste",
       "url_path": "/san-diego/hazardous-waste-electronics/",
       "published": "2026-11-18"
+    },
+    {
+      "city": "San Diego",
+      "state": "CA",
+      "item": "Dumpster Permit",
+      "url_path": "/san-diego/dumpster-permit/",
+      "published": "2026-11-19"
+    },
+    {
+      "city": "San Diego",
+      "state": "CA",
+      "item": "Refrigerator and Appliances",
+      "url_path": "/san-diego/refrigerator/",
+      "published": "2026-11-19"
     }
   ]
 }
