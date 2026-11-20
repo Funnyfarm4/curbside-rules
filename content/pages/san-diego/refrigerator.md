@@ -82,7 +82,7 @@ The City says all pricing is subject to change, so call before you go [[sd-mrc]]
 
 The Miramar Landfill fee sheet says **appliances, CRTs, TVs, e-waste and household hazardous materials must be properly disposed of before entering the landfill** [[sd-feepdf]]. Stop at the Recycling Center first; it's at the same entrance [[sd-mrc]]. If you have other junk in the load, a car, SUV, pickup or small trailer of general refuse from inside the City is **$75** at the landfill, and uncovered loads cost an extra **$50** [[sd-feepdf]].
 
-## Option 2: Donate a working fridge
+## Option 2: Donate it
 
 - **Goodwill Industries of San Diego County** accepts **large household appliances (ovens, stoves, refrigerators)** at its **Otay Mesa Outlet**, not at its regular donation centers [[gw-sd]]. Questions: **619-225-2200, ext. 197**, Monday to Friday, 8 a.m. to 4:30 p.m. [[gw-sd]]
 - **San Diego Habitat for Humanity** closed both of its ReStores (Kearny Mesa and National City) in **October 2024**, so it no longer takes appliance donations [[hab-sd]].
