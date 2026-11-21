@@ -220,8 +220,8 @@
       "working_title": "How to Get Rid of a Couch in Boston (2026)",
       "primary_keyword": "how to get rid of a couch boston",
       "start_with_agency": "City of Boston Public Works",
-      "status": "queued",
-      "note": "2026-10-29: boston.gov says furniture goes out with normal curbside trash on collection day (no appointment); thin page on its own, consider combining with donation options."
+      "status": "published",
+      "note": "2026-10-29: boston.gov says furniture goes out with normal curbside trash on collection day (no appointment); thin page on its own, consider combining with donation options. 2026-11-20: published, combined with curbside rules, sofa bed/futon rules, large-building rules and donation options."
     },
     {
       "n": 11,
@@ -1008,7 +1008,7 @@
       "primary_keyword": "chicago hot tub removal",
       "start_with_agency": "Chicago Department of Streets and Sanitation",
       "status": "queued",
-      "note": "2026-11-17: idea; verify whether DSS bulk takes spas before writing."
+      "note": "2026-11-17: idea; verify whether DSS bulk takes spas before writing. 2026-11-20: deferred. chicago.gov sanitation pages only give the general \"arrange a bulk pick-up for any large item\" rule; no official page mentions hot tubs/spas."
     },
     {
       "n": 83,
@@ -1056,8 +1056,8 @@
       "working_title": "Free Furniture Donation Pickup in San Diego (2026)",
       "primary_keyword": "san diego furniture donation pickup",
       "start_with_agency": "Goodwill SD Donate Furniture / Donation Pickup pages; San Diego Rescue Mission; Father Joe's Villages",
-      "status": "queued",
-      "note": "2026-11-19: idea for the related-topic slot; Habitat ReStores closed (Oct 2024), Goodwill SD takes large furniture at retail stores.",
+      "status": "published",
+      "note": "2026-11-19: idea for the related-topic slot; Habitat ReStores closed (Oct 2024), Goodwill SD takes large furniture at retail stores. 2026-11-20: published (Father Joe's, Veterans Thrift free pickup; Goodwill, Salvation Army drop-off).",
       "topic": "furniture-donation"
     },
     {
@@ -1083,6 +1083,30 @@
       "start_with_agency": "sandiego.gov general rules (no furniture in bins), Miramar Landfill fees, Goodwill SD furniture",
       "status": "queued",
       "note": "2026-11-19: idea; City bulky pickup paused, so high hauling intent."
+    },
+    {
+      "n": 89,
+      "city": "New York City",
+      "state": "NY",
+      "item": "Hot Tub and Spa",
+      "slug": "hot-tub",
+      "working_title": "How to Get Rid of a Hot Tub in New York City (2026)",
+      "primary_keyword": "nyc hot tub removal",
+      "start_with_agency": "DSNY large items / 311 portal; Habitat NYC ReStore takes new hot tubs only (donateNYC brochure)",
+      "status": "queued",
+      "note": "2026-11-20: idea; DSNY large-items page does not mention hot tubs; find an official statement first."
+    },
+    {
+      "n": 90,
+      "city": "Boston",
+      "state": "MA",
+      "item": "Hot Tub and Spa",
+      "slug": "hot-tub",
+      "working_title": "How to Get Rid of a Hot Tub in Boston (2026)",
+      "primary_keyword": "boston hot tub removal",
+      "start_with_agency": "boston.gov Trash page (plumbing fixtures not collected) / Trash Day app directory",
+      "status": "queued",
+      "note": "2026-11-20: idea; verify whether Boston treats spas as furniture/curbside trash or private-hauler only."
     }
   ],
   "published": [
@@ -1519,6 +1543,21 @@
       "item": "Refrigerator and Appliances",
       "url_path": "/san-diego/refrigerator/",
       "published": "2026-11-19"
+    },
+    {
+      "city": "Boston",
+      "state": "MA",
+      "item": "Couch and Furniture",
+      "url_path": "/boston/couch/",
+      "published": "2026-11-20"
+    },
+    {
+      "city": "San Diego",
+      "state": "CA",
+      "item": "Furniture Donation Pickup",
+      "url_path": "/san-diego/furniture-donation/",
+      "published": "2026-11-20",
+      "topic": "donation-pickup"
     }
   ]
 }
